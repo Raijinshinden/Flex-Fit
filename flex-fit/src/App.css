@@ -6,6 +6,10 @@
 body{
   margin: 0;
 }
+
+:root{
+  --primary: hsla(232, 89%, 41%, 0.837);
+}
 /*General Css ends*/
 
 /*Navbar Css*/
@@ -13,5 +17,8 @@ body{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: hsla(232, 89%, 41%, 0.837);
+  background-color: var(--primary);
+  top: 0;
+  left: 0;
+  right: 0;
 }
