@@ -13,4 +13,5 @@ body{
   display: flex;
   justify-content: space-between;
   align-items: center;
+  background-color: hsla(232, 89%, 41%, 0.837);
 }
