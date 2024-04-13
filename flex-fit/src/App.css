@@ -8,7 +8,8 @@ body{
 }
 
 :root{
-  --primary: hsla(232, 89%, 41%, 0.837);
+  --primary: hsla(232, 89%, 41%, 0.822);
+  --secondary: hsl(35, 83%, 49%);
 }
 /*General Css ends*/
 
@@ -18,7 +19,20 @@ body{
   justify-content: space-between;
   align-items: center;
   background-color: var(--primary);
-  top: 0;
-  left: 0;
-  right: 0;
+  width: 100vw;
+  gap: 2rem;
+  padding: 0 1rem;
+  position: fixed;
+}
+
+.navbar a{
+  color: var(--secondary);
+}
+
+.navbar ul{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  gap: 1rem;
 }
