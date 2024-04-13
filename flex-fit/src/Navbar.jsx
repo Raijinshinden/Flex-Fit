@@ -1,8 +1,11 @@
 export default function Navbar() {
     return(
         <nav className="navbar">
-            <a href="/" className="site-title">Flex Fit</a>
-            <ul className="nav-list">
+            <h1 href="/" className="site-title">Flex Fit</h1>
+            <ul>
+                <li>
+                    <a href="/">Home</a>
+                </li>
                 <li>
                     <a href="about">About</a>
                 </li>

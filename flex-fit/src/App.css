@@ -29,6 +29,8 @@ body{
 
 .site-title{
   font-size: 2em;
+  color: var(--secondary);
+  cursor: pointer;
 }
 
 .navbar a{
