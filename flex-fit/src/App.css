@@ -11,6 +11,6 @@ body{
 /*Navbar Css*/
 .navbar{
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-items: center;
 }
