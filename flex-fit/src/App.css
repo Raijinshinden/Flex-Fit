@@ -5,6 +5,12 @@
 
 body{
   margin: 0;
-  
 }
 /*General Css ends*/
+
+/*Navbar Css*/
+.navbar{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
