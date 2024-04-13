@@ -10,7 +10,7 @@ export default function Navbar() {
                     <a href="classes">Classes</a>
                 </li>
                 <li>
-                    <a href="classes">Classes</a>
+                    <a href="contact">Contact Us</a>
                 </li>
             </ul>
         </nav>
