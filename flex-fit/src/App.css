@@ -8,7 +8,7 @@ body{
 }
 
 :root{
-  --primary: hsla(232, 89%, 41%, 0.822);
+  --primary: hsla(225, 6%, 14%, 0.822);
   --secondary: hsl(35, 83%, 49%);
   --highlight: #ffffff;
 }
