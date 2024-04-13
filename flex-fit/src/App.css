@@ -10,6 +10,7 @@ body{
 :root{
   --primary: hsla(232, 89%, 41%, 0.822);
   --secondary: hsl(35, 83%, 49%);
+  --highlight: #ffffff;
 }
 /*General Css ends*/
 
@@ -17,16 +18,24 @@ body{
 .navbar{
   display: flex;
   justify-content: space-between;
-  align-items: center;
   background-color: var(--primary);
   width: 100vw;
   gap: 2rem;
   padding: 0 1rem;
   position: fixed;
+  top: 0;
+}
+
+.site-title{
+  font-size: 2em;
 }
 
 .navbar a{
   color: var(--secondary);
+  height: 100%;
+  display: flex;
+  align-items: center;
+  
 }
 
 .navbar ul{
@@ -34,5 +43,20 @@ body{
   margin: 0;
   list-style: none;
   display: flex;
-  gap: 1rem;
+  gap: 2rem;
+}
+
+.navbar li.active{
+  background-color: var(--highlight);
+  color: var(--primary);
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.navbar li:hover{
+  background-color: var(--highlight);
+  color: var(--primary);
+  border-radius: 5px;
+  padding: 3px;
+  transition: ease 0.5s;
 }
