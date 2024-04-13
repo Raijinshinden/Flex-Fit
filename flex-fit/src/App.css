@@ -29,7 +29,6 @@ body{
 
 .site-title{
   font-size: 2em;
-  
 }
 
 .navbar a{
@@ -50,14 +49,14 @@ body{
 
 .navbar li.active{
   background-color: var(--highlight);
-  color: var(--primary);
+  color: var(--secondary);
   border-radius: 5px;
   padding: 5px;
 }
 
 .navbar li:hover{
   background-color: var(--highlight);
-  color: var(--primary);
+  color: var(--secondary);
   border-radius: 5px;
   padding: 3px;
   transition: ease 0.5s;
