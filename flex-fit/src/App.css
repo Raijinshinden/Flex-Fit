@@ -47,6 +47,7 @@ body{
   list-style: none;
   display: flex;
   gap: 2rem;
+  font-size: 1.2rem;
 }
 
 .navbar li.active{
