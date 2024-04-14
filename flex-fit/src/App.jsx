@@ -7,7 +7,8 @@ function App() {
       <>
       <Navbar />
       <Home />
-      </>)
+      </>
+      )
 }
 
 export default App
