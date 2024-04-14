@@ -1,16 +1,12 @@
-import { useState } from "react";
+import { useState, useEffect, useRef } from "react";
 
 import womanStretch from "./assets/images/gym/woman-stretch.webp";
 import womanBarbell from "./assets/images/gym/woman-barbell.webp";
 import manRopes from "./assets/images/gym/man-ropes.jpeg"
 
-const carouselImg = [womanStretch, womanBarbell, manRopes];
 
 
 
-function ImageSlider({imageUrls}){
-
-}
 
 export default function Home(){
     return(
