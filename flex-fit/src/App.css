@@ -63,12 +63,12 @@ body{
   color: var(--secondary);
   border-radius: 5px;
   padding: 3px;
-  transition: ease 0.5s;
+  transition: ease .75s;
 }
 
 /*Hero Section CSS*/
 .hero-img-container{
-  background-image: url(./assets/images/man-ropes.jpeg);
+  background-image: url();
   display: flex;
   justify-content: flex-end;
   margin-bottom: 10px;
