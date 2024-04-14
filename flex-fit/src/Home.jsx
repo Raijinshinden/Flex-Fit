@@ -1,9 +1,8 @@
-import { Carousel } from "./components/Carousel";
-
-import {slides} from "./data/carouselData.json"
 
 export default function Home(){
     return(
-            <Carousel data={slides}/>
+            <>
+                <img src="./assets/images/man-ropes.jpeg" />
+            </>
     )
 }
