@@ -101,3 +101,14 @@ p{
   font-weight: bold;
   line-height: 30px;
 }
+
+.hero-img{
+  height: 500px;
+  width: 800px;
+}
+
+.hero-section{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  padding: 133px;
+}
