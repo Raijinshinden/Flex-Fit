@@ -25,6 +25,7 @@ body{
   padding: 1rem;
   position: fixed;
   top: 0;
+  z-index: 0;
 }
 
 .site-title{
@@ -69,7 +70,6 @@ body{
 
 /*Hero Section CSS*/
 .hero-section-content-box{
-  margin-top: 100px;
   display: flex;
   justify-content: flex-start;
   margin-bottom: 10px;
