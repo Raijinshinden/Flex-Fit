@@ -1,7 +1,7 @@
 
 function Home(){
     return (
-        <section>
+        <section id="heroSection" className="hero-section">
             <div className="hero-section-content-box">
                 <div className="hero-section-content">
                     <p className="section-title">Join our gym if you want to feel</p>
