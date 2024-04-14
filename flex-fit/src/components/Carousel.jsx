@@ -2,8 +2,10 @@ import React from 'react'
 import "./Carousel.css"
 
 
-export const Carousel = () => {
+export const Carousel = ({data}) => {
   return (
-    <div>Carousel</div>
+<div>{data.map((item, index) => {
+        return <img src={item.src} alt={item.alt} key={index}></img>
+    })}</div>
   )
 }
