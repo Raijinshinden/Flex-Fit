@@ -1,10 +1,12 @@
-/*General Css*/
+/*Global Css*/
 *{
   box-sizing: border-box;
 }
 
 body{
   margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
 }
 
 :root{
@@ -12,7 +14,7 @@ body{
   --secondary: hsl(35, 83%, 49%);
   --highlight: #ffffff;
 }
-/*General Css ends*/
+/*Global Css ends*/
 
 /*Navbar Css*/
 .navbar{
