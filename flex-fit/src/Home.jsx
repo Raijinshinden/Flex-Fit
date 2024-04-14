@@ -16,6 +16,9 @@ function Home(){
                 </div>
                 <button className="btn btn-primary">Contact Us</button>
             </div>
+            <div className="hero-section-img">
+                <img src="./assets/man_treadmill.webp" alt="Hero Section"/>
+            </div>
         </section>
     );
 }
