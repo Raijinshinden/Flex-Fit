@@ -69,17 +69,3 @@ body{
 }
 
 /*Hero Section CSS*/
-.hero-section-content-box{
-  display: flex;
-  justify-content: flex-start;
-  margin-bottom: 10px;
-}
-
-.hero-section-content-box p{
-  font-size: 2em;
-}
-
-.hero-text{
-  float: left;
-  margin-top: 10px;
-}
