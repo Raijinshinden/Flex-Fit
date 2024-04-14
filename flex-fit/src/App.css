@@ -39,6 +39,7 @@ body{
   display: flex;
   align-items: center;
   padding: .25rem;
+  text-decoration: none;
 }
 
 .navbar ul{
