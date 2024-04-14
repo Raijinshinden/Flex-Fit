@@ -29,7 +29,10 @@ body{
   cursor: pointer;
   text-align: center;
   text-decoration: none;
+  transition: background-color 0.5s;
 }
+
+
 /*Global Css ends*/
 
 /*Navbar Css*/
@@ -87,3 +90,14 @@ body{
 }
 
 /*Hero Section CSS*/
+h1{
+  font-size: 3em;
+  font-weight: 700;
+  line-height: 60px;
+}
+
+p{
+  font-size: 1.5em;
+  font-weight: bold;
+  line-height: 30px;
+}
