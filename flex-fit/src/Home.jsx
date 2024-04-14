@@ -16,9 +16,6 @@ function Home(){
                 </div>
                 <button className="btn btn-primary">Contact Us</button>
             </div>
-            <div className="hero-section-img">
-                <img className="hero-img" src="/images/man-treadmill.jpg" alt="Hero Section"/>
-            </div>
         </section>
     );
 }
