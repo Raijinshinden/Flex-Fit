@@ -1,0 +1,16 @@
+{
+    "slides": [
+        {
+            "src": "./assets/images/gym/man-ropes.jpeg",
+            "alt": "carousel image 1"
+        },
+        {
+            "src": "./assets/images/gym/woman-barbell.webp",
+            "alt": "carousel image 2"
+        },
+        {
+            "src": "./assets/images/gym/woman-stretch.webp",
+            "alt": "carousel image 3"
+        }
+    ]
+}
