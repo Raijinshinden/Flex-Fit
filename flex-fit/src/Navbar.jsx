@@ -1,7 +1,5 @@
 export default function Navbar() {
     return(
-
-        
         <nav className="navbar">
             <h1 href="/" className="site-title">Flex Fit</h1>
             <ul>

@@ -22,7 +22,7 @@ body{
   background-color: var(--primary);
   width: 100vw;
   gap: 2rem;
-  padding: 0 1rem;
+  padding: 1rem;
   position: fixed;
   top: 0;
 }
@@ -68,11 +68,15 @@ body{
 }
 
 /*Hero Section CSS*/
-.hero-img-container{
-  background-image: url();
+.hero-section-content-box{
+  margin-top: 100px;
   display: flex;
-  justify-content: flex-end;
+  justify-content: flex-start;
   margin-bottom: 10px;
+}
+
+.hero-section-content-box p{
+  font-size: 2em;
 }
 
 .hero-text{
