@@ -17,7 +17,7 @@ function Home(){
                 <button className="btn btn-primary">Contact Us</button>
             </div>
             <div className="hero-section-img">
-                <img src="/public/images/man-treadmill.jpg" alt="Hero Section"/>
+                <img src="/images/man-treadmill.jpg" alt="Hero Section"/>
             </div>
         </section>
     );
