@@ -134,6 +134,7 @@ p{
   background-repeat: no-repeat;
   height: 100svh;
   width: 100vw;
+  margin-top: 50px;
 }
 
 .hero-section-content{
