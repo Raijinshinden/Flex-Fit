@@ -155,6 +155,8 @@ p{
 
 /*About Section CSS begins*/
 
-.about-description h1{
-  color: var(--secondary);
+.about-section-content-box{
+  z-index: 0;
+  background-color: black;
+  position: relative;
 }

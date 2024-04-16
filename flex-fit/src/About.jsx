@@ -2,12 +2,13 @@
 
 export default function About(){
     <section id="about-section">
+        <div className="section-divider"></div>
         <div className="about-section-content-box">
             <div className="about-section-content">
                 <div className="about-description">
                     <h1>About</h1>
                     <p>
-                        At Flex Fit, we encouraged 
+                        At Flex-Fit, we encouraged all our members
                     </p>
                 </div>
             </div>
