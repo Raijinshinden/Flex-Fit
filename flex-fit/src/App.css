@@ -130,7 +130,7 @@ p{
   grid-template-columns: repeat(2, 1fr);
   padding: 133px 40px 133px;
   background-color: hsl(0, 2%, 33%);
-  background-image: url(/public/images/man-treadmill.jpg);
+  background-image: url(/images/man-treadmill.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -150,3 +150,7 @@ p{
 .hero-description{
   margin-top: 20px;
 }
+
+/*Hero Section CSS ends*/
+
+/*About Section CSS begins*/
