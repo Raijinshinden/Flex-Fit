@@ -134,6 +134,7 @@ p{
 }
 
 .hero-section-content{
+  margin-top: 30px;
   background-color: var(--primary);
   padding: 20px;
   border-radius: 10px;
