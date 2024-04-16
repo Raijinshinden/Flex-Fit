@@ -130,7 +130,8 @@ p{
   background-color: hsl(0, 2%, 33%);
   background-image: url(/public/images/man-treadmill.jpg);
   background-size: cover;
-  background-position: repeat;
+  background-position: center;
+  background-repeat: no-repeat;
   height: 100svh;
   width: 100vw;
 }
