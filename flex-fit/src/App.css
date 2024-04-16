@@ -154,3 +154,7 @@ p{
 /*Hero Section CSS ends*/
 
 /*About Section CSS begins*/
+
+.about-description h1{
+  color: var(--secondary);
+}

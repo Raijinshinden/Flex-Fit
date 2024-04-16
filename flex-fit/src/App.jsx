@@ -7,7 +7,9 @@ function App() {
   return(
       <>
       <Navbar />
+      <br/>
       <Home />
+      <br/>
       <About />
       </>
       )

@@ -6,6 +6,9 @@ export default function About(){
             <div className="about-section-content">
                 <div className="about-description">
                     <h1>About</h1>
+                    <p>
+                        At Flex Fit, we encouraged 
+                    </p>
                 </div>
             </div>
         </div>
