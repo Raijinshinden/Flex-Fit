@@ -16,6 +16,8 @@ function Home(){
                 </div>
                 <button className="btn btn-primary">Contact Us</button>
             </div>
+            <div className="section-divider">
+            </div>
         </section>
     );
 }
