@@ -137,4 +137,9 @@ p{
   background-color: var(--primary);
   padding: 20px;
   border-radius: 10px;
+  align-items: center;
+}
+
+.hero-description{
+  margin-top: 20px;
 }
