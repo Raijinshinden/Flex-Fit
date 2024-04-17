@@ -9,6 +9,9 @@ export default function About(){
                     <p>
                         At Flex-Fit, we encouraged all our members to strive to be the best that they can be.
                     </p>
+                    <p>
+                        
+                    </p>
                 </div>
             </div>
         </div>
