@@ -2,7 +2,6 @@
 
 export default function About(){
     <section id="about-section">
-        <div className="section-divider"></div>
         <div className="about-section-content-box">
             <div className="about-section-content">
                 <div className="about-description">
