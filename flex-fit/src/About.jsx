@@ -7,7 +7,7 @@ export default function About(){
                 <div className="about-description">
                     <h1>About</h1>
                     <p>
-                        At Flex-Fit, we encouraged all our members
+                        At Flex-Fit, we encouraged all our members to strive to be the best that they can be.
                     </p>
                 </div>
             </div>
