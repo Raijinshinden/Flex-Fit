@@ -10,7 +10,7 @@ export default function About(){
                         At Flex-Fit, we encouraged all our members to strive to be the best that they can be.
                     </p>
                     <p>
-                        With our unique training methods we can
+                        With our unique training methods we can f
                     </p>
                 </div>
             </div>
