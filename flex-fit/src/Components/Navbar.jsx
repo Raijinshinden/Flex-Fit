@@ -1,8 +1,8 @@
 export default function Navbar() {
     return(
-        <nav className="navbar">
+        <nav>
             <h1 href="/" className="site-title">Flex-Fit</h1>
-            <ul>
+            <ul className>
                 <li>
                     <a href="/">Home</a>
                 </li>
