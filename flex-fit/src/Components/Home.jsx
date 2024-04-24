@@ -5,6 +5,7 @@
 function Home(){
     return (
         <section id="heroSection" className="hero-section">
+            <img src="../public/images/man-treadmill.jpg"/>
             <div className="hero-section-content-box">
                 <div className="hero-section-content">
                     <h1 className="section-title"><span>Are you looking to get in shape,</span>{" "} 
