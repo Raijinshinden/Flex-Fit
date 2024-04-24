@@ -2,9 +2,11 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div class='color-[#ffffff]'>
-        Flex-Fit
-    </div>
+    <nav className='bg-'>
+        <div className='text-4xl font-bold'>
+            Flex-Fit
+        </div>
+    </nav>
   )
 }
 
