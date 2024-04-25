@@ -6,7 +6,7 @@ const Navbar = () => {
         <div className='text-4xl font-bold text-amber-500'>
             Flex-Fit
         </div>
-        <ul className='flex text-amber-500 hover:cursor-pointer'>
+        <ul className='flex ml-2 text-amber-500 hover:cursor-pointer'>
             <li>
                 Home
             </li>
