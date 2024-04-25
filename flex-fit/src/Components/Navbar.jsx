@@ -19,12 +19,13 @@ const Navbar = () => {
                         <a className='border-rounded text-xl ml- p-2 text-amber-500 hover:bg-white hover:text-amber-600 hover:border-solid hover:border-2 hover:border-amber-500' href='#'>Classes</a>
                     </li>
                     <li>
-                        <a className='border-rounded text-xl ml- p-2 text-amber-500 hover:bg-white hover:text-amber-600 hover:border-solid hover:border-2 hover:border-amber-500' href='#'>Contact Us</a>
+                        <a className='border-rounded text-xl ml- p-2 text-amber-500 hover:bg-white hover:text-amber-600 hover:border-solid hover:border-2 hover:border-amber-500' href='#'>Trial</a>
                     </li>
                 </ul>
             </div>
             <div className='flex items-center gap-6'>
-                <ion-icon name="menu" className='text-3xl cursor-pointer'></ion-icon>
+                <button className='bg-amber-500 text-white px-5 py-2 rounded-full hover:bg-white hover:text-amber-500'>Contact Us</button>
+                <ion-icon name="menu" className='text-3xl cursor-pointer md:hidden'></ion-icon>
             </div>
         </nav>
     </header>
