@@ -17,6 +17,7 @@
     "postcss-cli": "^11.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-icons": "^5.1.0",
     "react-rotating-text": "^1.4.1"
   },
   "devDependencies": {
@@ -30,6 +31,7 @@
     "eslint-plugin-react-refresh": "^0.4.6",
     "gh-pages": "^6.1.1",
     "postcss": "^8.4.38",
+    "prettier-plugin-tailwindcss": "^0.5.14",
     "tailwindcss": "^3.4.3",
     "vite": "^5.2.0",
     "vitest": "^1.5.0"
