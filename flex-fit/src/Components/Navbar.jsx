@@ -23,6 +23,9 @@ const Navbar = () => {
                     </li>
                 </ul>
             </div>
+            <div className='flex items-center gap-6'>
+                <ion-icon name="menu" className='text-3xl cursor-pointer'></ion-icon>
+            </div>
         </nav>
     </header>
   )
