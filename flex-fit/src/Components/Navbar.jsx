@@ -8,7 +8,7 @@ const Navbar = () => {
                 Flex-Fit
             </div>
             <div className='absolute bg-gray-800 min-h-[60vh] left-0 top-[9%] w-full flex items-center px-5'>
-                <ul className='flex md:flex-row flex-col md:items-center md:gap-[7vw]'>
+                <ul className='flex md:flex-row flex-col md:items-center md:gap-[7vw] gap-8'>
                     <li>
                         <a className='border-rounded text-xl ml- p-2 text-amber-500 hover:bg-white hover:text-amber-600 hover:border-solid hover:border-2 hover:border-amber-500' href='#'>Home</a>
                     </li>
