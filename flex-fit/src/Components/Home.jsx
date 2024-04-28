@@ -11,7 +11,7 @@ function Home(){
                     <h1 className="text-4xl font-bold text-amber-500"><span>Are you looking to get in shape,</span>{" "} 
                     <br/>
                     but short on time?</h1>
-                    <p className="text-xl"><span>Flex-Fit is a state-of-the-art 24hr gym.</span>{""}
+                    <p className="text-xl text-white"><span>Flex-Fit is a state-of-the-art 24hr gym.</span>{""}
                     <br />
                     So you can come and exercise whenever you want to.</p>
                 <button className="bg-amber-500 px-2 py-2 text-white rounded-full">Contact Us</button>
