@@ -4,7 +4,7 @@ const About = () => {
   return (
     <>
     <div className='font-bold text-2xl'>About Us</div>
-    <p className='text-l'>
+    <p className='text-xl'>
         Flex-Fit was founded with the idea that people should be able to exercise whenever they want to.
     </p>
 
