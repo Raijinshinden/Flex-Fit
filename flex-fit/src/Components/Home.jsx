@@ -15,7 +15,7 @@ function Home(){
                     <br />
                     So you can come and exercise whenever you want to.</p>
                 </div>
-                <button className="bg-amber-500 px-2 py-2">Contact Us</button>
+                <button className="bg-amber-500 px-2 py-2 text-white rounded-full">Contact Us</button>
             </div>
         </section>
     );
