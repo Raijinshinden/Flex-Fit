@@ -8,7 +8,7 @@ function Home(){
             <img src="/images/man-treadmill.jpg" className="w-full h-screen object-cover"/>
             <div className="hero-section-content-box">
                 <div className="hero-section-content">
-                    <h1 className="font-bold"><span>Are you looking to get in shape,</span>{" "} 
+                    <h1 className="font-bold text-amber-500"><span>Are you looking to get in shape,</span>{" "} 
                     <br/>
                     but short on time?</h1>
                     <p className="hero-description"><span>Flex-Fit is a state-of-the-art 24hr gym.</span>{""}
