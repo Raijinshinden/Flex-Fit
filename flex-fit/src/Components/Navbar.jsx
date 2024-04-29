@@ -26,7 +26,7 @@ const Navbar = () => {
             </div>
             <div className='flex items-center gap-6'>
                 <button className='bg-amber-500 text-white px-5 py-2 rounded-full hover:bg-white hover:text-amber-500'>Contact Us</button>
-                <ion-icon name="menu" className='text-3xl cursor-pointer md:hidden'></ion-icon>
+                <AiOutlineMenu className=''/>
             </div>
         </nav>
     </header>
