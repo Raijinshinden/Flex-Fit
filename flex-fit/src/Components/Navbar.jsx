@@ -1,13 +1,7 @@
 import React from 'react'
 import {AiOutlineMenu, AiOutlineHome, AiOutlineProject, AiOutlineMail} from 'react-icons/ai'
 
-function Navbar = () => {
-
-    const [nav, setNav] = useState(false)
-    const handleNav = () => {
-        setNav(!nav);
-    };
-
+const Navbar = () => {
   return (
     <header className='bg-gray-800 h-15'>
         <nav className='flex justify-between items-center w-[92%] mx-auto py-2'>
@@ -31,28 +25,8 @@ function Navbar = () => {
                 </ul>
             </div>
             <div className='flex items-center gap-6'>
-                <button className='bg-amber-500 text-white px-5 py-2 rounded-full hover:bg-white hover:text-amber-500'>Contact Us</button>
-                
-            </div>
-
-            <div className='md:block hidden fixed top-[25%] z-10'>
-                <div className='flex flex-col'>
-                    <a href="#main" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-300'>
-                        <AiOutlineHome size={20}/>
-                    </a>
-                    <a href="#work" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-300'>
-                        <GrProjects size={20}/>
-                    </a>
-                    <a href="#projects" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-300'>
-                        <AiOutlineProject size={20}/>
-                    </a>
-                    <a href="#main" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-300'>
-                        <BsPerson size={20}/>
-                    </a>
-                    <a href="#contact" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-300'>
-                        <AiOutlineMail size={20}/>
-                    </a>
-                </div>
+                <button className='bg-amber-500 text-white px-5 py-2 mx-5 rounded-full hover:bg-white hover:text-amber-500'>Contact Us</button>
+                <AiOutlineMenu className='absolute top-4 right-4 z-[99] md:hidden'/>
             </div>
         </nav>
     </header>
