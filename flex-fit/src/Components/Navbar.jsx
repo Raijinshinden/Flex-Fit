@@ -32,7 +32,7 @@ function Navbar = () => {
             </div>
             <div className='flex items-center gap-6'>
                 <button className='bg-amber-500 text-white px-5 py-2 rounded-full hover:bg-white hover:text-amber-500'>Contact Us</button>
-                <AiOutlineMenu className='absolute top-4 right-4 z-[99] md:hidden'/>
+                
             </div>
 
             <div className='md:block hidden fixed top-[25%] z-10'>
