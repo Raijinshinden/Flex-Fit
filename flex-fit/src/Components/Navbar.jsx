@@ -1,5 +1,5 @@
 import React from 'react'
-import {AiOutlineMenu} from 'react-icons/ai'
+import {AiOutlineMenu, AiOutlineHome, AiOutlineProject, AiOutlineMail} from 'react-icons/ai'
 
 const Navbar = () => {
   return (
