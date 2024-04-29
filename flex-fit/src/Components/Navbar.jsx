@@ -27,7 +27,7 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className='flex items-center gap-6'>
-                <button className='bg-amber-500 text-white px-5 py-2 mx-5 rounded-full hover:bg-white hover:text-amber-500 max-sm:hidden'>Contact Us</button>
+                <button className='bg-amber-500 text-white px-5 py-2 mx-5 rounded-full hover:bg-white hover:text-amber-500 max-md:hidden'>Contact Us</button>
             </div>
         </nav>
     </header>
