@@ -26,7 +26,7 @@ const Navbar = () => {
             </div>
             <div className='flex items-center gap-6'>
                 <button className='bg-amber-500 text-white px-5 py-2 mx-5 rounded-full hover:bg-white hover:text-amber-500'>Contact Us</button>
-                <AiOutlineMenu className='absolute top-6 right-5 z-[99] md:hidden'/>
+                <AiOutlineMenu className='absolute top-6 right-5 z-[99] hover:cursor-pointer bg-white md:hidden'/>
             </div>
         </nav>
     </header>
