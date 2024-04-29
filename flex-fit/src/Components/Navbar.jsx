@@ -1,7 +1,13 @@
 import React from 'react'
 import {AiOutlineMenu, AiOutlineHome, AiOutlineProject, AiOutlineMail} from 'react-icons/ai'
 
-const Navbar = () => {
+function Navbar = () => {
+
+    const [nav, setNav] = useState(false)
+    const handleNav = () => {
+        setNav(!nav);
+    };
+
   return (
     <header className='bg-gray-800 h-15'>
         <nav className='flex justify-between items-center w-[92%] mx-auto py-2'>
