@@ -10,7 +10,7 @@ const About = () => {
           Flex-Fit was founded with the idea that people should be able to exercise whenever they want to.
       </p>
       <p>
-        dz
+        dz na
       </p>
     </div>
     </>
