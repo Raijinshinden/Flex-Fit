@@ -9,8 +9,8 @@ const About = () => {
         <h2 id='about' className='text-center font-bold text-3xl text-amber-500 py-4'>About Us</h2>
       </div>
 
-      <div>
-        <p className='block text-xl'>
+      <div className='mt-3 bg-gray-700 rounded-lg'>
+        <p className='p-3 block text-xl'>
             Flex-Fit was founded with the idea that people should be able to exercise whenever they want to.
         </p>
       </div>
