@@ -3,6 +3,7 @@ import Home from "./Components/Home.jsx"
 import About from "./Components/About.jsx";
 import "./App.css";
 import Sidenav from "./Components/Sidenav.jsx";
+import Contact from "./Components/Contact.jsx";
 
 function App() {
   return(
@@ -11,6 +12,7 @@ function App() {
       <Sidenav />
       <Home />
       <About />
+      <Contact />
       </>
       )
 }
