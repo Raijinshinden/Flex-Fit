@@ -12,7 +12,9 @@ function App() {
       <Navbar />
       <Sidenav />
       <Home />
+      <SectionDivide />
       <About />
+      <SectionDivide />
       <Contact />
       </>
       )
