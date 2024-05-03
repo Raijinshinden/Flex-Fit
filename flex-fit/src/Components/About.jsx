@@ -11,7 +11,7 @@ const About = () => {
 
       <div className='mt-3'>
         <img src='' className='float-right'/>
-        <p className='bg-gray-700 rounded-lg p-3 block text-xl'>
+        <p className='bg-gray-700 rounded-lg p-3 block text-xl text-white'>
             Flex-Fit was founded with the idea that people should be able to exercise whenever they want to.
         </p>
       </div>
