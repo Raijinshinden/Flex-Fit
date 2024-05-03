@@ -3,6 +3,7 @@ import Home from "./Components/Home.jsx"
 import About from "./Components/About.jsx";
 import Sidenav from "./Components/Sidenav.jsx";
 import Contact from "./Components/Contact.jsx";
+import SectionDivide from "./Components/SectionDivide.jsx";
 import "./App.css";
 
 function App() {
