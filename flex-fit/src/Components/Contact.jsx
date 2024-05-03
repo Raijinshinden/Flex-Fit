@@ -49,7 +49,7 @@ const Contact = () => {
                 name='message' />    
             </div>
             <button 
-            className='bg-amber-500 text-white mt-4 w-full p-4 rounded-lg'
+            className='bg-amber-500 text-white font-bold mt-4 w-full p-4 rounded-lg'
             >
                 Send Message    
             </button> 
