@@ -8,6 +8,7 @@ const Classes = () => {
         </h2>
         <div>
           <img />
+          <p></p>
         </div>
     </div>
   )
