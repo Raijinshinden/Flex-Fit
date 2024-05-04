@@ -27,7 +27,7 @@ const Classes = () => {
         <div>
           <img />
           <h3>
-            K
+            Ki
           </h3>
         </div>
     </div>
