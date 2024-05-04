@@ -6,19 +6,19 @@ const Classes = () => {
         <h2 className='mb-3 bg-gray-700 text-center rounded-full text-3xl font-bold text-amber-500 py-4'>
             Classes
         </h2>
-        <div>
+        <div className='bg-gray-700'>
           <img />
           <h3>
             Aerobics
           </h3>
         </div>
-        <div>
+        <div className='bg-gray-700'>
           <img />
           <h3>
             Boxing
           </h3>
         </div>
-        <div>
+        <div className='bg-gray-700'>
           <img />
           <h3>
             Karate
