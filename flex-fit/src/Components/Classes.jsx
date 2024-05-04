@@ -8,7 +8,9 @@ const Classes = () => {
         </h2>
         <div>
           <img />
-          <p></p>
+          <p>
+            Aerobics
+          </p>
         </div>
     </div>
   )
