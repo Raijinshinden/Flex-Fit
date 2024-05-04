@@ -24,7 +24,7 @@ const Classes = () => {
             Karate
           </h3>
         </div>
-        <div>
+        <div className='bg-gray-700'>
           <img />
           <h3>
             Kickboxing
