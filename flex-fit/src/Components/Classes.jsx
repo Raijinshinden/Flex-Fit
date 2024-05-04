@@ -18,6 +18,12 @@ const Classes = () => {
             Boxing
           </h3>
         </div>
+        <div>
+          <img />
+          <h3>
+            Aerobics
+          </h3>
+        </div>
     </div>
   )
 }
