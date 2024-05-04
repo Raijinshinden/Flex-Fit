@@ -4,6 +4,7 @@ import {BsPerson} from 'react-icons/bs'
 import {GrProjects} from 'react-icons/gr'
 
 const Navbar = () => {
+
   return (
     <header className='bg-gray-800 h-15'>
         <nav className='flex justify-between items-center w-[92%] mx-auto py-2'>
@@ -27,7 +28,7 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className='flex items-center gap-6'>
-                <button href="#contact" className='bg-amber-500 text-white px-5 py-2 mx-5 rounded-full hover:bg-white hover:text-amber-500 max-md:hidden'>Contact Us</button>
+                <button className='bg-amber-500 text-white px-5 py-2 mx-5 rounded-full hover:bg-white hover:text-amber-500 max-md:hidden'><a href="#contact">Contact Us</a></button>
             </div>
         </nav>
     </header>
