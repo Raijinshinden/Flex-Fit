@@ -8,25 +8,25 @@ const Classes = () => {
         </h2>
         <div className='bg-gray-700 '>
           <img />
-          <h3>
+          <h3 className=''>
             Aerobics
           </h3>
         </div>
         <div className='bg-gray-700'>
           <img />
-          <h3>
+          <h3 className=''>
             Boxing
           </h3>
         </div>
         <div className='bg-gray-700'>
           <img />
-          <h3>
+          <h3 className=''>
             Karate
           </h3>
         </div>
         <div className='bg-gray-700'>
           <img />
-          <h3>
+          <h3 className=''>
             Kickboxing
           </h3>
         </div>
