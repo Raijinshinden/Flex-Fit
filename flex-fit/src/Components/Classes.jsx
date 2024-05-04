@@ -27,7 +27,7 @@ const Classes = () => {
         <div>
           <img />
           <h3>
-            Kickboxi
+            Kickboxing
           </h3>
         </div>
     </div>
