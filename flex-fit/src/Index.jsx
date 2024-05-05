@@ -4,7 +4,7 @@ import About from "./Components/About.jsx";
 import Sidenav from "./Components/Sidenav.jsx";
 import Classes from "./Components/Classes.jsx";
 import Contact from "./Components/Contact.jsx";
-import Trial from "./Components/Trial.jsx";
+import Membership from "./Components/Membership.jsx";
 import SectionDivide from "./Components/SectionDivide.jsx";
 import "./App.css";
 
@@ -19,7 +19,7 @@ function App() {
       <SectionDivide />
       <Classes />
       <SectionDivide />
-      <Trial />
+      <Membership />
       <SectionDivide />
       <Contact />
       </>
