@@ -6,6 +6,9 @@ const Trial = () => {
         <h2 className='mb-3 bg-gray-700 text-center rounded-full text-3xl font-bold text-amber-500 py-4'>
             Trial
         </h2>
+        <div>
+            
+        </div>
     </div>
   )
 }
