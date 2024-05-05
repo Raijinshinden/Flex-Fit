@@ -10,7 +10,7 @@ const Membership = () => {
             <div>
                 <img />
                 <h3>
-
+                  Basic
                 </h3>
             </div>
         </div>
