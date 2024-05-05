@@ -20,6 +20,7 @@ function App() {
       <Classes />
       <SectionDivide />
       <Trial />
+      <SectionDivide />
       <Contact />
       </>
       )
