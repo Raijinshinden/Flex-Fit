@@ -9,7 +9,7 @@ const Membership = () => {
         <div>
             <div>
                 <img />
-                <h3>
+                <h3 className='text-white'>
                   Basic
                 </h3>
             </div>
@@ -17,14 +17,14 @@ const Membership = () => {
         <div>
             <div>
                 <img />
-                <h3>
+                <h3 className='text-white'>
                   Enthusiast
                 </h3>
             </div>
             <div>
             <div>
                 <img />
-                <h3>
+                <h3 className='text-white'>
                   Gym Rat
                 </h3>
             </div>
