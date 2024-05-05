@@ -18,7 +18,7 @@ const Membership = () => {
             <div>
                 <img />
                 <h3>
-                  Pro
+                  Enthusiast
                 </h3>
             </div>
             <div>
