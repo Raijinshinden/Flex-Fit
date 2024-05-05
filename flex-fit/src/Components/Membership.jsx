@@ -25,7 +25,7 @@ const Membership = () => {
             <div>
                 <img />
                 <h3>
-                  Legend
+                  Gym Rat
                 </h3>
             </div>
         </div>
