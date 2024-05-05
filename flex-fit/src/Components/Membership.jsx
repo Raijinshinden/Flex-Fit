@@ -14,6 +14,22 @@ const Membership = () => {
                 </h3>
             </div>
         </div>
+        <div>
+            <div>
+                <img />
+                <h3>
+                  Pro
+                </h3>
+            </div>
+            <div>
+            <div>
+                <img />
+                <h3>
+                  Legend
+                </h3>
+            </div>
+        </div>
+        </div>
     </div>
   )
 }
