@@ -7,7 +7,12 @@ const Trial = () => {
             Trial
         </h2>
         <div>
-            
+            <div>
+                <img />
+                <p>
+                    
+                </p>
+            </div>
         </div>
     </div>
   )
