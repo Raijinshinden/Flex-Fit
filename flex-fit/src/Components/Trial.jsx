@@ -9,9 +9,9 @@ const Trial = () => {
         <div>
             <div>
                 <img />
-                <p>
+                <h3>
                     
-                </p>
+                </h3>
             </div>
         </div>
     </div>
