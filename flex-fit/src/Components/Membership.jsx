@@ -12,7 +12,7 @@ const Membership = () => {
                 <h3 className='text-white text-2xl text-center font-bold my-2 px-2'>
                   Basic
                 </h3>
-                <p>
+                <p className='text-center'>
                     This is our most basic package.<br/>
                     It allows members full access to <br/>
                     our facilities 24/7.
@@ -23,12 +23,22 @@ const Membership = () => {
                 <h3 className='text-white text-2xl font-bold my-2 px-2'>
                   Enthusiast
                 </h3>
+                <p className='text-center'>
+                    This is our most basic package.<br/>
+                    It allows members full access to <br/>
+                    our facilities 24/7.
+                </p>
             </div>
             <div className='bg-gray-700 rounded-xl'>
                 <img />
                 <h3 className='text-white text-2xl font-bold my-2 px-2'>
                   Gym Rat
                 </h3>
+                <p className='text-center'>
+                    This is our most basic package.<br/>
+                    It allows members full access to <br/>
+                    our facilities 24/7.
+                </p>
             </div>
         </div>
     </div>
