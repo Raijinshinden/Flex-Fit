@@ -13,10 +13,13 @@ const Membership = () => {
                   Basic
                 </h3>
                 <p className='text-center text-white'>
-                    This is our most basic package.<br/>
-                    It allows members full access to <br/>
-                    our facilities 24/7.
+                    This is our most basic package.  
                 </p>
+                <ul className='my-2 text-center text-white'>
+                  <li className='list-disc'>
+                    24/7 access to gym.
+                  </li>
+                </ul>
                 <button></button>
             </div>
             <div className='bg-gray-700 rounded-xl'>
@@ -37,9 +40,7 @@ const Membership = () => {
                   Gym Rat
                 </h3>
                 <p className='text-center text-white'>
-                    This is our most basic package.<br/>
-                    It allows members full access to <br/>
-                    our facilities 24/7.
+                    This is our most basic package.  
                 </p>
                 <button></button>
             </div>
