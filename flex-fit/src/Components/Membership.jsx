@@ -15,7 +15,7 @@ const Membership = () => {
                 <p className='text-center text-white'>
                     This is our most basic package.  
                 </p>
-                <ul className='my-2 text-center text-white'>
+                <ul className='my-2 text-center text-white list-inside list-disc'>
                   <li >
                     24/7 access to gym.
                   </li>
