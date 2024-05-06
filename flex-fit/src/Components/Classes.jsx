@@ -7,27 +7,27 @@ const Classes = () => {
             Classes
         </h2>
         <div className='flex justify-evenly gap-x-2 md:block'>
-          <div className='bg-gray-700 '>
+          <div className='bg-gray-700 rounded-lg px-2 '>
             <img />
-            <h3 className='text-white text-2xl font-bold my-2 rounded-lg'>
+            <h3 className='text-white text-2xl font-bold my-2 '>
               Aerobics
             </h3>
           </div>
-          <div className='bg-gray-700'>
+          <div className='bg-gray-700 rounded-lg px-2'>
             <img />
-            <h3 className='text-white text-2xl font-bold my-2 rounded-lg'>
+            <h3 className='text-white text-2xl font-bold my-2 '>
               Boxing
             </h3>
           </div>
-          <div className='bg-gray-700'>
+          <div className='bg-gray-700 rounded-lg px-2'>
             <img />
-            <h3 className='text-white text-2xl font-bold my-2 rounded-lg'>
+            <h3 className='text-white text-2xl font-bold my-2 '>
               Karate
             </h3>
           </div>
-          <div className='bg-gray-700'>
+          <div className='bg-gray-700 rounded-lg px-2'>
             <img />
-            <h3 className='text-white text-2xl font-bold my-2 rounded-lg'>
+            <h3 className='text-white text-2xl font-bold my-2 '>
               Kickboxing
             </h3>
           </div>
