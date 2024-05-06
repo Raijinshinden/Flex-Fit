@@ -15,7 +15,7 @@ const Classes = () => {
           </div>
           <div className='bg-gray-700 rounded-xl'>
             <img />
-            <h3 className='text-white text-2xl font-bold my-2'>
+            <h3 className='text-white text-2xl font-bold my-2 px-3'>
               Boxing
             </h3>
           </div>
