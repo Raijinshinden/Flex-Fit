@@ -19,6 +19,9 @@ const Membership = () => {
                   <li >
                     24/7 access to gym.
                   </li>
+                  <li >
+                    24/7 access to gym.
+                  </li>
                 </ul>
                 <button></button>
             </div>
