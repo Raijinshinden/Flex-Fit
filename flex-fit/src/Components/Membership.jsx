@@ -6,7 +6,7 @@ const Membership = () => {
         <h2 className='mb-3 bg-gray-700 text-center rounded-full text-3xl font-bold text-amber-500 py-4'>
             Membership
         </h2>
-        <div>
+        <div className='md:block'>
             <div>
                 <img />
                 <h3 className='text-white'>
