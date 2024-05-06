@@ -46,7 +46,7 @@ const Membership = () => {
                 </h3>
                 <p className='text-center text-white'>
                     This package is for people who spend <br/>
-                    .  
+                    their whole lives at the gym.  
                 </p>
                 <button></button>
             </div>
