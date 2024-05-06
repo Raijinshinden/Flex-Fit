@@ -7,21 +7,21 @@ const Membership = () => {
             Membership
         </h2>
         <div className='flex justify-evenly md:block'>
-            <div>
+            <div className='bg-gray-700 rounded-xl'>
                 <img />
-                <h3 className='text-white'>
+                <h3 className='text-white text-2xl font-bold my-2 px-2'>
                   Basic
                 </h3>
             </div>
-            <div>
+            <div className='bg-gray-700 rounded-xl'>
                 <img />
-                <h3 className='text-white'>
+                <h3 className='text-white text-2xl font-bold my-2 px-2'>
                   Enthusiast
                 </h3>
             </div>
-            <div>
+            <div className='bg-gray-700 rounded-xl'>
                 <img />
-                <h3 className='text-white'>
+                <h3 className='text-white text-2xl font-bold my-2 px-2'>
                   Gym Rat
                 </h3>
             </div>
