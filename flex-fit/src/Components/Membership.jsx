@@ -32,9 +32,9 @@ const Membership = () => {
                   Enthusiast
                 </h3>
                 <p className='text-center text-white'>
-                    This is our most basic package.<br/>
-                    It allows members full access to <br/>
-                    our facilities 24/7.
+                    This package is for people who <br/>
+                    are looking 
+                    
                 </p>
                 <button></button>
             </div>
