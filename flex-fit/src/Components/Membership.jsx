@@ -33,7 +33,8 @@ const Membership = () => {
                 </h3>
                 <p className='text-center text-white'>
                     This package is for people who <br/>
-                    are looking 
+                    are looking to get more out of their <br/>
+                    gym experience.
                     
                 </p>
                 <button></button>
@@ -44,7 +45,7 @@ const Membership = () => {
                   Gym Rat
                 </h3>
                 <p className='text-center text-white'>
-                    This is our most basic package.  
+                    This package.  
                 </p>
                 <button></button>
             </div>
