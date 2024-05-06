@@ -9,9 +9,12 @@ const Membership = () => {
         <div className='flex justify-evenly md:block'>
             <div className='bg-gray-700 rounded-xl'>
                 <img />
-                <h3 className='text-white text-2xl font-bold my-2 px-2'>
+                <h3 className='text-white text-2xl text-center font-bold my-2 px-2'>
                   Basic
                 </h3>
+                <p>
+                  This is our most basic package
+                </p>
             </div>
             <div className='bg-gray-700 rounded-xl'>
                 <img />
