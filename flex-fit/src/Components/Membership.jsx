@@ -20,7 +20,8 @@ const Membership = () => {
                     24/7 access to gym.
                   </li>
                   <li >
-                    24/7 access to gym.
+                    You can take one trial class <br/>
+                    for free every month.
                   </li>
                 </ul>
                 <button></button>
