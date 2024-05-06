@@ -13,7 +13,9 @@ const Membership = () => {
                   Basic
                 </h3>
                 <p>
-                  This is our most basic package
+                    This is our most basic package.<br/>
+                    It allows members full access to <br/>
+                    our facilities 24/7.
                 </p>
             </div>
             <div className='bg-gray-700 rounded-xl'>
