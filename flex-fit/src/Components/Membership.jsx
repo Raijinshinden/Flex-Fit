@@ -45,7 +45,8 @@ const Membership = () => {
                   Gym Rat
                 </h3>
                 <p className='text-center text-white'>
-                    This package.  
+                    This package is for people who spend <br/>
+                    .  
                 </p>
                 <button></button>
             </div>
