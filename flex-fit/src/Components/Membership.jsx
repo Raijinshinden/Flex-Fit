@@ -13,7 +13,8 @@ const Membership = () => {
                   Basic
                 </h3>
                 <p className='text-center text-white'>
-                    This is our most basic package.  
+                    This is our most basic package.<br/>
+                    For people looking for a casual gym experience.  
                 </p>
                 <ul className='my-2 text-center text-white list-inside list-disc'>
                   <li >
@@ -32,8 +33,8 @@ const Membership = () => {
                   Enthusiast
                 </h3>
                 <p className='text-center text-white'>
-                    This package is for people who <br/>
-                    are looking to get more out of their <br/>
+                    This package is for people who are looking<br/>
+                    to get more out of their <br/>
                     gym experience.
                 </p>
                 <ul className='my-2 text-center text-white list-inside list-disc'>
