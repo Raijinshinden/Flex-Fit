@@ -46,7 +46,7 @@ const Membership = () => {
                     for free every month.
                   </li>
                   <li>
-                    Free
+                    Free a
                   </li>
                 </ul>
                 <button></button>
