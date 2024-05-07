@@ -45,6 +45,9 @@ const Membership = () => {
                     You can take one trial class<br/> 
                     for free every month.
                   </li>
+                  <li>
+                    
+                  </li>
                 </ul>
                 <button></button>
             </div>
