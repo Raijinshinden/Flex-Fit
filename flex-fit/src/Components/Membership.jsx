@@ -56,6 +56,15 @@ const Membership = () => {
                     This package is for people who spend <br/>
                     their whole lives at the gym.  
                 </p>
+                <ul className='my-2 text-center text-white list-inside list-disc'>
+                  <li >
+                    24/7 access to gym.
+                  </li>
+                  <li >
+                    You can take one trial class<br/> 
+                    for free every month.
+                  </li>
+                </ul>
                 <button></button>
             </div>
         </div>
