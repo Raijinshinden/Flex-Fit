@@ -25,7 +25,7 @@ const Membership = () => {
                     for free every month.
                   </li>
                 </ul>
-                <div className='text-center text-wh'>
+                <div className='text-center text-whi'>
                   $50.00
                 </div>
                 <button></button>
