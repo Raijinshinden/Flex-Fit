@@ -51,7 +51,7 @@ const Membership = () => {
                 </ul>
                 <button></button>
             </div>
-            <div className='bg-gray-700 rounded-xl px-4'>
+            <div className='bg-gray-700 rounded-xl px-4 sm:shadow-2xl hover:shadow-black'>
                 <img />
                 <h3 className='text-white text-2xl text-center font-bold my-2'>
                   Gym Rat
