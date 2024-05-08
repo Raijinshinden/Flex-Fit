@@ -52,6 +52,9 @@ const Membership = () => {
                     Free access to our paid carpark.
                   </li>
                 </ul>
+                <div className='p-2 mt-6 bg-amber-500 rounded-lg text-center font-bold text-white text-4xl'>
+                  $50.00
+                </div>
                 <button></button>
             </div>
             <div className='bg-gray-700 rounded-xl px-4 sm:shadow-2xl hover:shadow-black hover:cursor-pointer'>
@@ -72,6 +75,9 @@ const Membership = () => {
                     for free every month.
                   </li>
                 </ul>
+                <div className='p-2 mt-6 bg-amber-500 rounded-lg text-center font-bold text-white text-4xl'>
+                  $50.00
+                </div>
                 <button></button>
             </div>
         </div>
