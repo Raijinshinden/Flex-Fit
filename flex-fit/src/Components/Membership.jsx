@@ -7,7 +7,7 @@ const Membership = () => {
             Membership
         </h2>
         <div className='flex justify-evenly gap-5'>
-            <div className='bg-gray-700 rounded-xl px-4 sm:shadow-2xl hover:shadow-black'>
+            <div className='bg-gray-700 rounded-xl px-4 sm:shadow-2xl hover:shadow-black hover:cursor-pointer'>
                 <img />
                 <h3 className='text-white text-2xl text-center font-bold my-2'>
                   Basic
@@ -27,7 +27,7 @@ const Membership = () => {
                 </ul>
                 <button></button>
             </div>
-            <div className='bg-gray-700 rounded-xl px-4 sm:shadow-2xl hover:shadow-black'>
+            <div className='bg-gray-700 rounded-xl px-4 sm:shadow-2xl hover:shadow-black hover:cursor-pointer'>
                 <img />
                 <h3 className='text-white text-2xl text-center font-bold my-2'>
                   Enthusiast
@@ -51,7 +51,7 @@ const Membership = () => {
                 </ul>
                 <button></button>
             </div>
-            <div className='bg-gray-700 rounded-xl px-4 sm:shadow-2xl hover:shadow-black'>
+            <div className='bg-gray-700 rounded-xl px-4 sm:shadow-2xl hover:shadow-black hover:cursor-pointer'>
                 <img />
                 <h3 className='text-white text-2xl text-center font-bold my-2'>
                   Gym Rat
