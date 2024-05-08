@@ -53,7 +53,7 @@ const Membership = () => {
                   </li>
                 </ul>
                 <div className='p-2 mt-6 bg-amber-500 rounded-lg text-center font-bold text-white text-4xl'>
-                  $50.00
+                  $75.00
                 </div>
                 <button></button>
             </div>
@@ -76,7 +76,7 @@ const Membership = () => {
                   </li>
                 </ul>
                 <div className='p-2 mt-6 bg-amber-500 rounded-lg text-center font-bold text-white text-4xl'>
-                  $50.00
+                  $100.00
                 </div>
                 <button></button>
             </div>
