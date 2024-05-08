@@ -7,25 +7,25 @@ const Classes = () => {
             Classes
         </h2>
         <div className='flex justify-evenly gap-x-2 md:block'>
-          <div className='bg-gray-700 rounded-xl px-2'>
+          <div className='bg-gray-700 rounded-xl px-2 sm:shadow-2xl hover:shadow-black hover:cursor-pointer'>
             <img />
             <h3 className='text-white text-2xl font-bold my-2 px-3'>
               Aerobics
             </h3>
           </div>
-          <div className='bg-gray-700 rounded-xl'>
+          <div className='bg-gray-700 rounded-xl sm:shadow-2xl hover:shadow-black hover:cursor-pointer'>
             <img />
             <h3 className='text-white text-2xl font-bold my-2 px-3'>
               Boxing
             </h3>
           </div>
-          <div className='bg-gray-700 rounded-xl px-2'>
+          <div className='bg-gray-700 rounded-xl px-2 sm:shadow-2xl hover:shadow-black hover:cursor-pointer'>
             <img />
             <h3 className='text-white text-2xl font-bold my-2 px-3'>
               Karate
             </h3>
           </div>
-          <div className='bg-gray-700 rounded-xl px-2'>
+          <div className='bg-gray-700 rounded-xl px-2 sm:shadow-2xl hover:shadow-black hover:cursor-pointer'>
             <img />
             <h3 className='text-white text-2xl font-bold my-2 px-3'>
               Kickboxing
