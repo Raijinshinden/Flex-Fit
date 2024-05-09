@@ -27,7 +27,7 @@ function Sidenav() {
                       href="#work" 
                       className='w-[75%] flex justify-center items-center rounded-full shadow-lg bg-amber-500 shadow-amber-900 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-200'
                     >
-                      <GrProjects size={30} className='fill-white' />
+                      <GrProjects size={30} className='fill-slate-700' />
                       <span className='pl-4 text-white font-bold'>About</span>
                     </a>
                     <a onClick={handleNav} 
