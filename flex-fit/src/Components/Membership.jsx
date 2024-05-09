@@ -78,7 +78,7 @@ const Membership = () => {
                 <div className='p-2 mt-6 bg-amber-500 rounded-lg text-center font-bold text-white text-4xl'>
                   $100.00
                 </div>
-                <button>Join</button>
+                <button className=''>Join</button>
             </div>
         </div>
     </div>
