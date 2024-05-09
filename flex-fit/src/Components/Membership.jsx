@@ -8,7 +8,6 @@ const Membership = () => {
         </h2>
         <div className='flex justify-evenly gap-5'>
             <div className='bg-gray-700 rounded-xl px-4 sm:shadow-2xl hover:shadow-black hover:cursor-pointer'>
-                <img />
                 <h3 className='text-white text-2xl text-center font-bold my-2'>
                   Basic
                 </h3>
