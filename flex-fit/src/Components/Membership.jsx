@@ -7,7 +7,7 @@ const Membership = () => {
             Membership
         </h2>
         <div className='flex justify-evenly gap-5'>
-            <div className='bg-gray-700 rounded-xl px-4 sm:shadow-2xl hover:shadow-black hover:cursor-pointer'>
+            <div className='bg-gray-700 rounded-xl px-4 shadow-2xl hover:shadow-black hover:cursor-pointer sm:col-start-1 row-start-2 mx-3'>
                 <h3 className='text-white text-2xl text-center font-bold my-2'>
                   Basic
                 </h3>
