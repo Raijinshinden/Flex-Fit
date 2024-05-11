@@ -2,7 +2,7 @@ import React from 'react'
 
 const Classes = () => { 
   return (
-    <div className='grid w-full md:m-auto p-4 py-16 bg-gray-800'>
+    <div className='flex w-full md:m-auto p-4 py-16 bg-gray-800'>
         <h2 className='mb-5 bg-gray-700 text-center rounded-full text-3xl font-bold text-amber-500 py-4'>
             Classes
         </h2>
