@@ -2,7 +2,7 @@ import React from 'react'
 
 const Membership = () => {
   return (
-    <div className='grid w-full m-auto md:p-4 py-10 bg-gray-800 overflow-hidden'>
+    <div className='grid w-full md:px-10 py-10 bg-gray-800 overflow-hidden'>
         <h2 className='mb-10 bg-gray-700 text-center rounded-full text-3xl font-bold text-amber-500 py-4'>
             Membership
         </h2>
