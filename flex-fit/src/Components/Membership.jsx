@@ -2,8 +2,8 @@ import React from 'react'
 
 const Membership = () => {
   return (
-    <div className='w-full md:px-10 py-10 bg-gray-800 overflow-hidden'>
-        <h2 className='sm:col-start-1 row-start-1 mb-3 ml-3 mr-10 md:mb-3 bg-gray-700 text-center rounded-full text-3xl font-bold text-amber-500 py-4'>
+    <div className='w-full md:px-10 py-10 bg-gray-800 overflow-hidden'id='membership'>
+        <h2 className='sm:col-start-1 row-start-1 mb-3 ml-3 mr-10 md:mb-3 bg-gray-700 text-center rounded-full text-3xl font-bold text-amber-500 py-4' >
             Membership
         </h2>
         <div className='sm:grid md:flex justify-evenly gap-3'>
