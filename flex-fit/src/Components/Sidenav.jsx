@@ -42,7 +42,7 @@ function Sidenav() {
                       className='w-[75%] flex justify-center items-center rounded-full shadow-lg bg-amber-500 shadow-amber-900 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-200'
                     >
                       <BsPerson size={30} className='fill-white' />
-                      <span className='pl-4 text-white font-bold'>Trial</span>
+                      <span className='pl-4 text-white font-bold'>Membership</span>
                     </a>
                     <a onClick={handleNav} 
                       href="#contact" 
