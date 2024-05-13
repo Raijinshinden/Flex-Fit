@@ -25,9 +25,6 @@ const Navbar = () => {
                     <li>
                         <a className='border-rounded text-xl ml- p-2 text-amber-500 hover:bg-white hover:text-amber-600 hover:border-solid hover:border-2 hover:rounded-xl hover:border-amber-500' href='#membership'>Membership</a>
                     </li>
-                    <li>
-                        <a className='border-rounded text-xl ml- p-2 text-amber-500 hover:bg-white hover:text-amber-600 hover:border-solid hover:border-2 hover:rounded-xl hover:border-amber-500' href='#trial'>Trial</a>
-                    </li>
                 </ul>
             </div>
             <div className='flex items-center gap-6'>
