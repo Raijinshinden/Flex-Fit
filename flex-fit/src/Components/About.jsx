@@ -18,6 +18,8 @@ const About = () => {
             These facilities include...
 
             Luxury Spa
+
+            Indoor Sports Center
         </p>
       </div>
       <p>
