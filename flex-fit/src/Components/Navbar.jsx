@@ -6,7 +6,7 @@ import {GrProjects} from 'react-icons/gr'
 const Navbar = () => {
 
   return (
-    <header className='w-full z-[99] bg-gray-800 h-15 fixed'>
+    <header className='hidden md:w-full md:z-[99] md:bg-gray-800 md:h-15 md:fixed'>
         <nav className='flex justify-between items-center w-[92%] mx-auto py-2'>
             <div className='text-5xl font-bold text-amber-500 hover:cursor-pointer'>
                 Flex-Fit
@@ -14,7 +14,7 @@ const Navbar = () => {
             <div className='md:static absolute bg-gray-800 md:min-h-fit min-h-[60vh] left-0 top-[-100%] md:w-auto w-full flex items-center px-5'>
                 <ul className='flex md:flex-row flex-col md:items-center md:gap-[7vw] gap-8'>
                     <li>
-                        <a className='border-rounded text-xl ml- p-2 text-amber-500 hover:bg-white hover:text-amber-600 hover:border-solid hover:border-2 hover:rounded-xl hover:border-amber-500 md:visible' href='#home'>Home</a>
+                        <a className='border-rounded text-xl ml- p-2 text-amber-500 hover:bg-white hover:text-amber-600 hover:border-solid hover:border-2 hover:rounded-xl hover:border-amber-500' href='#home'>Home</a>
                     </li>
                     <li>
                         <a className='border-rounded text-xl ml- p-2 text-amber-500 hover:bg-white hover:text-amber-600 hover:border-solid hover:border-2 hover:rounded-xl hover:border-amber-500' href='#about'>About</a>
