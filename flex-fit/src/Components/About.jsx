@@ -12,7 +12,7 @@ const About = () => {
         <img src='' className='float-right'/>
         <p className='items-start bg-gray-700 rounded-lg p-3 block text-xl text-white'>
             Flex-Fit was founded with the idea that people should be able to exercise whenever they want to. 
-            Because Flex-Fit is a 24/7 gym, 
+            Because Flex-Fit is a 24/7 gym, our members are able to come 
         </p>
       </div>
       <p>
