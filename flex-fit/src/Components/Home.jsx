@@ -4,7 +4,7 @@
 
 function Home(){
     return (
-        <section id="home" className="hero-section">
+        <section id="home">
             <div>
                 <img src="/images/man-treadmill.jpg" className="w-full h-screen object-cover"/>
                 <div className="absolute top-20 left-0 text-left mt-10 ml-10 px-4 py-4 rounded-lg bg-gray-800">
