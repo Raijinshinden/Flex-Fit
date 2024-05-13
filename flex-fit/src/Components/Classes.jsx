@@ -2,8 +2,8 @@ import React from 'react'
 
 const Classes = () => { 
   return (
-    <div className='grid w-full md:px-10 py-10 bg-gray-800 overflow-hidden'>
-        <h2 className='sm:col-start-1 row-start-1 mb-3 mx-3 md:mb-3 bg-gray-700 text-center rounded-full text-3xl font-bold text-amber-500 py-4' id='classes'>
+    <div className='grid w-full md:px-10 py-10 bg-gray-800 overflow-hidden' id='classes'>
+        <h2 className='sm:col-start-1 row-start-1 mb-3 mx-3 md:mb-3 bg-gray-700 text-center rounded-full text-3xl font-bold text-amber-500 py-4'>
             Classes
         </h2>
         <div className='sm:col-start-1 row-start-2 mx-3 md:flex justify-evenly gap-x-2'>
