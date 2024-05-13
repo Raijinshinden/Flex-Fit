@@ -14,7 +14,7 @@ const About = () => {
             Flex-Fit was founded with the idea that people should be able to exercise whenever they want to. 
             Because Flex-Fit is a 24/7 gym, our members are able to come exercise whenever they have free time.
             At Flex-Fit, you will find only the most state-of-the-art equipment that is readily available to the public.
-            Flex-Fit also has a number of facilities besides our gym 
+            Flex-Fit also has a number of facilities besides our gym that are available to our
         </p>
       </div>
       <p>
