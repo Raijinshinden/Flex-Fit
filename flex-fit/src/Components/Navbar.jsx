@@ -6,7 +6,7 @@ import {GrProjects} from 'react-icons/gr'
 const Navbar = () => {
 
   return (
-    <header className='hidden md:w-full md:z-[99] md:bg-gray-800 md:h-15 md:fixed'>
+    <header className='w-full z-[99] bg-gray-800 h-15 fixed'>
         <nav className='flex justify-between items-center w-[92%] mx-auto py-2'>
             <div className='text-5xl font-bold text-amber-500 hover:cursor-pointer'>
                 Flex-Fit
