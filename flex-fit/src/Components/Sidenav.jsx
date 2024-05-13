@@ -15,30 +15,30 @@ function Sidenav() {
         <AiOutlineMenu onClick={handleNav} className='bg-gray-600 size-14 p-2 rounded-full fixed top-5 right-5 z-[99] fill-amber-500 hover:cursor-pointer hover:bg-white hover:rounded-full md:hidden'/>
         {
             nav ? (
-                <div className='absolute w-full h-screen bg-gray-800/90 flex flex-col justify-center items-center z-20'>
+                <div className='fixed w-full h-screen bg-gray-800/90 flex flex-col justify-center items-center z-20'>
                     <a onClick={handleNav} 
-                      href="#main" 
+                      href="#home" 
                       className='w-[75%] flex justify-center items-center rounded-full shadow-lg bg-amber-500 shadow-amber-900 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-200'
                     >
                       <AiOutlineHome size={30} className='fill-white' />
                       <span className='pl-4 text-white font-bold'>Home</span>
                     </a>
                     <a onClick={handleNav}  
-                      href="#work" 
+                      href="#about" 
                       className='w-[75%] flex justify-center items-center rounded-full shadow-lg bg-amber-500 shadow-amber-900 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-200'
                     >
                       <GrProjects size={30} className='fill-white' />
                       <span className='pl-4 text-white font-bold'>About</span>
                     </a>
                     <a onClick={handleNav} 
-                      href="#projects" 
+                      href="#classes" 
                       className='w-[75%] flex justify-center items-center rounded-full shadow-lg bg-amber-500 shadow-amber-900 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-200'
                     >
                       <AiOutlineProject size={30} className='fill-white' />
                       <span className='pl-4 text-white font-bold'>Classes</span>
                     </a>
                     <a onClick={handleNav} 
-                      href="#main" 
+                      href="#membership" 
                       className='w-[75%] flex justify-center items-center rounded-full shadow-lg bg-amber-500 shadow-amber-900 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-200'
                     >
                       <BsPerson size={30} className='fill-white' />
