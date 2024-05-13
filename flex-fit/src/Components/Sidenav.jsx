@@ -12,7 +12,7 @@ function Sidenav() {
 
   return (
     <div>
-        <AiOutlineMenu onClick={handleNav} className='absolute top-5 right-5 z-[99] fill-amber-500 h-7 w-10 hover:cursor-pointer hover:bg-white hover:rounded md:hidden'/>
+        <AiOutlineMenu onClick={handleNav} className='bg-gray-600 size-14 p-2 rounded-full fixed top-5 right-5 z-[99] fill-amber-500 hover:cursor-pointer hover:bg-white hover:rounded-full md:hidden'/>
         {
             nav ? (
                 <div className='absolute w-full h-screen bg-gray-800/90 flex flex-col justify-center items-center z-20'>
