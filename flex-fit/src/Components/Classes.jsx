@@ -42,7 +42,7 @@ const Classes = () => {
               Kickboxing
             </h3>
             <p>
-              Kickboxing is one of our most popular classes here at Flex-Fit. Members are 
+              Kickboxing is one of our most popular classes here at Flex-Fit. Members are able to get a great workout
             </p>
           </div>
         </div>
