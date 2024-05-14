@@ -22,7 +22,8 @@ const Classes = () => {
               Boxing
             </h3>
             <p>
-              Our boxing classes give our members an amazing workout, as they can focus on during some padwork with their training partners
+              Our boxing classes give our members an amazing workout, as they can focus on during some padwork with their training partners,
+              or engage in some light sparing with with of our trained instructors.
             </p>
           </div>
           <div className='shadow-2xl hover:shadow-black hover:cursor-pointer sm:col-start-1 row-start-2 bg-gray-700 rounded-xl px-2'>
