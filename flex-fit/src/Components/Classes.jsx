@@ -21,7 +21,7 @@ const Classes = () => {
             <h3 className='text-white text-2xl font-bold my-2 px-3'>
               Boxing
             </h3>
-            <p>
+            <p className='text-white'>
               Our boxing classes give our members an amazing workout, as they can focus on during some padwork with their training partners,
               or engage in some light sparing with with of our trained instructors.
             </p>
