@@ -31,7 +31,7 @@ const Classes = () => {
             <h3 className='text-white text-2xl font-bold my-2 px-3'>
               Karate
             </h3>
-            <p>
+            <p className='text-white'>
               We over both traditional and full-contact forms of karate here at Flex-Fit. Our classes are offered daily and are designed for members of
               varying skill levels, so you will be able to find a class that is right for you.
             </p>
