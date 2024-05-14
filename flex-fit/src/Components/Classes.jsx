@@ -42,7 +42,8 @@ const Classes = () => {
               Kickboxing
             </h3>
             <p>
-              Kickboxing is one of our most popular classes here at Flex-Fit. Members are able to get a great workout
+              Kickboxing is one of our most popular classes here at Flex-Fit. Members are able to get a great workout which is not only good for their cardio,
+              but also helps to build and tone their muscles.
             </p>
           </div>
         </div>
