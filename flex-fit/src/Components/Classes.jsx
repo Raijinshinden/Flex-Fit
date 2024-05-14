@@ -32,7 +32,7 @@ const Classes = () => {
               Karate
             </h3>
             <p>
-              We over both traditional and full-contact forms of karate here at Flex-Fit
+              We over both traditional and full-contact forms of karate here at Flex-Fit. Classes are offered daily, with varying levels 
             </p>
           </div>
           <div className='shadow-2xl hover:shadow-black hover:cursor-pointer sm:col-start-1 row-start-2 bg-gray-700 rounded-xl px-2'>
