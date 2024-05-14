@@ -41,6 +41,9 @@ const Classes = () => {
             <h3 className='text-white text-2xl font-bold my-2 px-3'>
               Kickboxing
             </h3>
+            <p>
+              Kickboxing is one of our most popular classes here at Flex-Fit. Members are 
+            </p>
           </div>
         </div>
     </div>
