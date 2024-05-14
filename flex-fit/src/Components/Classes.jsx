@@ -31,6 +31,9 @@ const Classes = () => {
             <h3 className='text-white text-2xl font-bold my-2 px-3'>
               Karate
             </h3>
+            <p>
+              We over both traditional and full-contact forms of karate here at Flex-Fit
+            </p>
           </div>
           <div className='shadow-2xl hover:shadow-black hover:cursor-pointer sm:col-start-1 row-start-2 bg-gray-700 rounded-xl px-2'>
             <img />
