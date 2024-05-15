@@ -8,7 +8,7 @@ const Classes = () => {
         </h2>
         <div className='sm:col-start-1 row-start-2 mx-3 md:flex justify-evenly gap-x-2'>
           <div className='shadow-2xl hover:shadow-black hover:cursor-pointer sm:col-start-1 row-start-2 bg-gray-700 rounded-xl'>
-            <img />
+            <img src='public/images/aerobics.jpg'/>
             <h3 className='text-white text-2xl font-bold my-2 px-3'>
               Aerobics
             </h3>
