@@ -17,7 +17,7 @@ const Classes = () => {
             </p>
           </div>
           <div className='shadow-2xl hover:shadow-black hover:cursor-pointer sm:col-start-1 row-start-2 bg-gray-700 rounded-xl'>
-            <img />
+            <img src='public/images/boxing.jpg'/>
             <h3 className='text-white text-2xl font-bold my-2 px-3'>
               Boxing
             </h3>
