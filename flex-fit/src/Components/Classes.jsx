@@ -37,7 +37,7 @@ const Classes = () => {
             </p>
           </div>
           <div className='shadow-2xl hover:shadow-black hover:cursor-pointer sm:col-start-1 row-start-2 bg-gray-700 rounded-xl px-2'>
-            <img />
+            <img src='public/images/kickboxing.jpg'/>
             <h3 className='text-white text-2xl font-bold my-2 px-3'>
               Kickboxing
             </h3>
