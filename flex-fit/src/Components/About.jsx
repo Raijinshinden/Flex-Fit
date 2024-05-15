@@ -15,7 +15,7 @@ const About = () => {
             Because Flex-Fit is a 24/7 gym, our members are able to come exercise whenever they have free time.
         </p>
       </div>
-      <div>
+      <div className='pt-3'>
         <img src='' className=''/>
         <p className='items-start bg-gray-700 rounded-lg p-3 block text-xl text-white'>
             At Flex-Fit, you will find only the most state-of-the-art equipment that is readily available to the public.
