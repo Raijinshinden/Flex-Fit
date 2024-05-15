@@ -12,7 +12,7 @@ const Classes = () => {
             <h3 className='text-white text-2xl text-center font-bold my-2 px-3'>
               Aerobics
             </h3>
-            <p className='text-white'>
+            <p className='text-white p-2'>
               Our aerobics classes allows our members to exercise and stretch in a relaxed and peaceful manner.
             </p>
           </div>
@@ -21,7 +21,7 @@ const Classes = () => {
             <h3 className='text-white text-2xl text-center  font-bold my-2 px-3'>
               Boxing
             </h3>
-            <p className='text-white'>
+            <p className='text-white p-2'>
               Our boxing classes give our members an amazing workout, as they can focus on during some padwork with their training partners,
               or engage in some light sparing with with of our trained instructors.
             </p>
@@ -31,7 +31,7 @@ const Classes = () => {
             <h3 className='text-white text-2xl text-center font-bold my-2 px-3'>
               Karate
             </h3>
-            <p className='text-white'>
+            <p className='text-white p-2'>
               We over both traditional and full-contact forms of karate here at Flex-Fit. Our classes are offered daily and are designed for members of
               varying skill levels, so you will be able to find a class that is right for you.
             </p>
@@ -41,7 +41,7 @@ const Classes = () => {
             <h3 className='text-white text-2xl text-center font-bold my-2 px-3'>
               Kickboxing
             </h3>
-            <p className='text-white'>
+            <p className='text-white p-2'>
               Kickboxing is one of our most popular classes here at Flex-Fit. Members are able to get a great workout which is not only good for their cardio,
               but also helps to build and tone their muscles.
             </p>
