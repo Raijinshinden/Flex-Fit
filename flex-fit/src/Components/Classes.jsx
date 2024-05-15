@@ -18,7 +18,7 @@ const Classes = () => {
           </div>
           <div className='shadow-2xl hover:shadow-black hover:cursor-pointer sm:col-start-1 row-start-2 bg-gray-700 rounded-xl'>
             <img src='public/images/boxing.jpg'/>
-            <h3 className='text-white text-2xl font-bold my-2 px-3'>
+            <h3 className='text-white text-2xl text-center  font-bold my-2 px-3'>
               Boxing
             </h3>
             <p className='text-white'>
@@ -28,7 +28,7 @@ const Classes = () => {
           </div>
           <div className='shadow-2xl hover:shadow-black hover:cursor-pointer sm:col-start-1 row-start-2 bg-gray-700 rounded-xl px-2'>
             <img src='public/images/karate.jpg'/>
-            <h3 className='text-white text-2xl font-bold my-2 px-3'>
+            <h3 className='text-white text-2xl text-center  font-bold my-2 px-3'>
               Karate
             </h3>
             <p className='text-white'>
