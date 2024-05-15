@@ -17,7 +17,7 @@ const About = () => {
       </div>
       <div>
         <img src='' className=''/>
-        <p className=''>
+        <p className='items-start bg-gray-700 rounded-lg p-3 block text-xl text-white'>
             At Flex-Fit, you will find only the most state-of-the-art equipment that is readily available to the public.
             Flex-Fit also has a number of facilities besides our gym that are available to our higher level members.
             These facilities include...
