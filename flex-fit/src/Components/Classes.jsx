@@ -7,7 +7,7 @@ const Classes = () => {
             Classes
         </h2>
         <div className='sm:col-start-1 row-start-2 mx-3 md:flex justify-evenly gap-x-2'>
-          <div className='shadow-2xl hover:shadow-black hover:cursor-pointer sm:col-start-1 row-start-2 bg-gray-700 rounded-xl'>
+          <div className='shadow-2xl hover:shadow-black hover:cursor-pointer sm:col-start-1 row-start-2 bg-gray-700 rounded-xl max-w-md:'>
             <img src='/images/aerobics.jpg' className='p-2'/>
             <h3 className='text-white text-2xl text-center font-bold my-2 px-3'>
               Aerobics
