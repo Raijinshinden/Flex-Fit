@@ -8,8 +8,8 @@ const About = () => {
         <h2 className='text-center font-bold text-3xl text-amber-500 py-4'>About Us</h2>
       </div>
 
-      <div className='mt-3'>
-        <img src='/images/man-weights.jpg' className='float-right rounded-lg h-80'/>
+      <div className='mt-3 bg-gray-700 '>
+        <img src='/images/man-weights.jpg' className='float-right rounded-lg h-80 pr-10'/>
         <p className='items-start bg-gray-700 rounded-lg p-3 block text-xl text-white'>
             Flex-Fit was founded with the idea that people should be able to exercise whenever they want to. 
             Because Flex-Fit is a 24/7 gym, our members are able to come exercise whenever they have free time.
