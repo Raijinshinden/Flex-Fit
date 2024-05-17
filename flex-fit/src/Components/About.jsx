@@ -20,12 +20,7 @@ const About = () => {
         <img src='' className=''/>
         <p className='items-start bg-gray-700 rounded-lg p-3 block text-xl text-white'>
             At Flex-Fit, you will find only the most state-of-the-art equipment that is readily available to the public.
-            Flex-Fit also has a number of facilities besides our gym that are available to our higher level members.
-            These facilities include...
-
-            Luxury Spa
-
-            Indoor Sports Center
+            Flex-Fit also has a number of facilities besides our gym that are available to our higher level members.   
         </p>
       </div>
       <div className='pt-3'>
