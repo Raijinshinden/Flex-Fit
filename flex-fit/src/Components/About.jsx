@@ -52,7 +52,7 @@ const About = () => {
       <div className='pt-3'>
         <img src='' className=''/>
         <p className='items-start bg-gray-700 rounded-lg p-3 block text-xl text-white'>
-            Olympic swimming
+            Olympic swimming p
         </p>
       </div>
     </div>
