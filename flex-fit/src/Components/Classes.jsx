@@ -26,7 +26,7 @@ const Classes = () => {
               or engage in some light sparing with with of our trained instructors.
             </p>
           </div>
-          <div className='shadow-2xl hover:shadow-black hover:cursor-pointer sm:col-start-1 row-start-2 mb-6 bg-gray-700 rounded-xl px-2'>
+          <div className='w-3/12 shadow-2xl hover:shadow-black hover:cursor-pointer sm:col-start-1 row-start-2 mb-6 bg-gray-700 rounded-xl px-2'>
             <img src='/images/karate.jpg' className='p-2'/>
             <h3 className='text-white text-2xl text-center font-bold my-2 px-3'>
               Karate
