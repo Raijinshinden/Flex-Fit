@@ -5,7 +5,7 @@ const About = () => {
     <>
     <div className='grid flex-col w-full md:px-20 p-4 py-16 bg-gray-800' id='about'>
       <div className='rounded-full bg-gray-700'>
-        <h2 className='sm:col-start-1 row-start-1 mb-6 mx-3 md:mb-3 bg-gray-700 text-center rounded-full text-3xl font-bold text-amber-500 py-4'>About Us</h2>
+        <h2 className='sm:col-start-1 row-start-1 mb-6 mx-3 md:mb-3 w-full bg-gray-700 text-center rounded-full text-3xl font-bold text-amber-500 py-4'>About Us</h2>
       </div>
 
       <div className='sm:col-start-2 row-start-7 mx-3 md:flex justify-evenly gap-x-2'>
