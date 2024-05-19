@@ -8,7 +8,7 @@ const About = () => {
         <h2 className='sm:col-start-1 row-start-1 mb-6 mx-3 md:mb-3 bg-gray-700 text-center rounded-full text-3xl font-bold text-amber-500 py-4'>About Us</h2>
       </div>
 
-      <div className='sm:col-start-1 row-start-2 mx-3 md:flex justify-evenly gap-x-2'>
+      <div className='sm:col-start-2 row-start-7 mx-3 md:flex justify-evenly gap-x-2'>
         <div className='mt-3 bg-gray-700 w-40 '>
         <img src='/images/man-weights.jpg' className='size-96 float-right rounded-lg h-full object-cover'/>
           <p className='items-start bg-gray-700 rounded-lg p-3 block text-xl text-white text-wrap'>
