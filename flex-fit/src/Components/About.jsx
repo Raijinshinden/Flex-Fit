@@ -3,9 +3,9 @@ import React from 'react'
 const About = () => {
   return (
     <>
-    <div className='flex flex-col w-full md:px-20 p-4 py-16 bg-gray-800' id='about'>
+    <div className='grid flex-col w-full md:px-20 p-4 py-16 bg-gray-800' id='about'>
       <div className='rounded-full bg-gray-700'>
-        <h2 className='text-center font-bold text-3xl text-amber-500 py-4'>About Us</h2>
+        <h2 className='sm:col-start-1 row-start-1 mb-6 mx-3 md:mb-3 bg-gray-700 text-center rounded-full text-3xl font-bold text-amber-500 py-4'>About Us</h2>
       </div>
 
       <div className='mt-3 bg-gray-700 w-40 '>
