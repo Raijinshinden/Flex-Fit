@@ -11,8 +11,8 @@ const About = () => {
       <div className='mt-3 bg-gray-700 '>
       <img src='/images/man-weights.jpg' className='size-80 float-right rounded-lg h-full object-cover'/>
         <p className='items-start bg-gray-700 rounded-lg p-3 block text-xl text-white text-wrap'>
-            Flex-Fit was founded with the idea that people should be able to exercise whenever they want to. 
-            Because Flex-Fit is a 24/7 gym, our members are able to come exercise whenever they have free time.
+            Flex-Fit was founded with the idea that people should be able to exercise whenever they want to.<br/> 
+            Because Flex-Fit is a 24/7 gym, our members are able to come exercise whenever they have free time.<br/> 
             At Flex-Fit, our overall goal is to instill in our members self-confidence, 
         </p>
       </div>
