@@ -15,7 +15,7 @@ const Membership = () => {
                     This is our most basic package.<br/>
                     For people looking for a casual gym experience.  
                 </p>
-                <ul className='my-2 text-center text-white list-inside list-disc'>
+                <ul className='my-2 text-center text-white list-inside list-dis'>
                   <li >
                     24/7 access to gym.
                   </li>
