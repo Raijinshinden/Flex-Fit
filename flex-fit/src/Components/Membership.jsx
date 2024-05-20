@@ -53,7 +53,7 @@ const Membership = () => {
                 <div className='p-2 mt-6 bg-amber-500 rounded-lg text-center font-bold text-white text-4xl'>
                   $75.00
                 </div>
-                <button className=''>Join</button>
+                <button className='text-center'>Join</button>
             </div>
             <div className='bg-gray-700 rounded-xl px-4 shadow-2xl hover:shadow-black hover:cursor-pointer sm:col-start-1 row-start-4 mx-3'>
                 <h3 className='text-white text-2xl text-center font-bold my-2'>
