@@ -35,7 +35,7 @@ const About = () => {
           </p>
         </div>
         <div className='pt-3'>
-          <img src='' className='images/Spa.jpg'/>
+          <img src='' className='public/images/Spa.jpg'/>
           <p className='items-start bg-gray-700 rounded-lg p-3 block text-xl text-white'>
               Luxury Spa
           </p>
