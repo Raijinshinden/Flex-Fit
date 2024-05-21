@@ -8,7 +8,7 @@ const Navbar = () => {
   return (
     <header className='invisible md:visible w-full z-[99] bg-gray-600 h-15 fixed'>
         <nav className='flex justify-between items-center w-[92%] mx-auto py-2'>
-            <div className='text-5xl font-bold text-amber-500 hover:cursor-pointer'>
+            <div className='bg-gray-800 text-5xl font-bold text-amber-500 hover:cursor-pointer'>
                 Flex-Fit
             </div>
             <div className='md:static absolute bg-gray-600 md:min-h-fit min-h-[60vh] left-0 top-[-100%] md:w-auto w-full flex items-center px-5'>
