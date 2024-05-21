@@ -7,7 +7,7 @@ const Classes = () => {
             Classes
         </h2>
         <div className='sm:col-start-1 row-start-2 mx-3 md:flex justify-evenly gap-x-2'>
-          <div className='w-3/12 shadow-2xl p-2 hover:shadow-black hover:cursor-pointer sm:col-start-1 row-start-2 mb-6 bg-gray-700 rounded-xl max-w-md:'>
+          <div className='shadow-2xl p-2 hover:shadow-black hover:cursor-pointer sm:col-start-1 row-start-2 mb-6 bg-gray-700 rounded-xl max-w-md:'>
             <img src='/images/aerobics.jpg' className='p-2'/>
             <h3 className='text-white text-2xl text-center font-bold my-2 px-3'>
               Aerobics
@@ -16,7 +16,7 @@ const Classes = () => {
               Our aerobics classes allows our members to exercise and stretch in a relaxed and peaceful manner.
             </p>
           </div>
-          <div className='w-3/12 shadow-2xl p-2 hover:shadow-black hover:cursor-pointer sm:col-start-1 row-start-2 mb-6 bg-gray-700 rounded-xl'>
+          <div className='shadow-2xl p-2 hover:shadow-black hover:cursor-pointer sm:col-start-1 row-start-2 mb-6 bg-gray-700 rounded-xl'>
             <img src='/images/boxing.jpg' className='p-2'/>
             <h3 className='text-white text-2xl text-center  font-bold my-2 px-3'>
               Boxing
@@ -26,7 +26,7 @@ const Classes = () => {
               or engage in some light sparing with with of our trained instructors.
             </p>
           </div>
-          <div className='w-3/12 shadow-2xl p-2 hover:shadow-black hover:cursor-pointer sm:col-start-1 row-start-2 mb-6 bg-gray-700 rounded-xl px-2'>
+          <div className='shadow-2xl p-2 hover:shadow-black hover:cursor-pointer sm:col-start-1 row-start-2 mb-6 bg-gray-700 rounded-xl px-2'>
             <img src='/images/karate.jpg' className='p-2'/>
             <h3 className='text-white text-2xl text-center font-bold my-2 px-3'>
               Karate
@@ -36,7 +36,7 @@ const Classes = () => {
               varying skill levels, so you will be able to find a class that is right for you.
             </p>
           </div>
-          <div className='w-3/12 shadow-2xl p-2 hover:shadow-black hover:cursor-pointer sm:col-start-1 row-start-2 bg-gray-700 rounded-xl px-2'>
+          <div className='shadow-2xl p-2 hover:shadow-black hover:cursor-pointer sm:col-start-1 row-start-2 bg-gray-700 rounded-xl px-2'>
             <img src='/images/kickboxing.jpg' className='p-2'/>
             <h3 className='text-white text-2xl text-center font-bold my-2 px-3'>
               Kickboxing
