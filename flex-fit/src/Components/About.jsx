@@ -41,7 +41,7 @@ const About = () => {
           </p>
         </div>
         <div className='pt-3'>
-          <img src='/images/Gym.jpg' className=''/>
+          <img src='/images/Gym.jpg' className='rounded-lg'/>
           <p className='items-start bg-gray-700 rounded-lg p-3 block text-xl text-white'>
               Indoor Sports Center
           </p>
