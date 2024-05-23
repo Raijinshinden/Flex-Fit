@@ -7,7 +7,7 @@ function Home(){
         <section id="home">
             <div>
                 <img src="/images/man-treadmill.jpg" className="w-full h-screen object-cover"/>
-                <div className="absolute top-20 left-0 text-left mt-10 ml-10 px-4 py-4 rounded-xl bg-gray-800">
+                <div className="absolute top-20 left-0 text-left mt-10 ml-10 px-4 py-4 rounded-lg bg-gray-800">
                     <h1 className="text-4xl font-bold text-amber-500"><span>Are you looking to get in shape,</span>{" "} 
                     <br/>
                     but short on time?</h1>
