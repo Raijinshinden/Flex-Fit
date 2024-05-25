@@ -52,7 +52,7 @@ const About = () => {
               Rock climbing Wall
           </p>
         </div>
-        <div className='pt-3'>
+        <div className='pt-'>
           <img src='/images/Olympic-pool.jpg' className='rounded-lg'/>
           <p className='items-start bg-gray-700 rounded-lg p-3 block text-xl text-white'>
               Olympic Swimming Pool
