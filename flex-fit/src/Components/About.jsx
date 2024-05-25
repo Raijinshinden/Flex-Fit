@@ -49,7 +49,7 @@ const About = () => {
         <div className='pt-3'>
           <img src='' className=''/>
           <p className='items-start bg-gray-700 rounded-lg p-3 block text-xl text-white'>
-              Rock climbing wall
+              Rock climbing Wall
           </p>
         </div>
         <div className='pt-3'>
