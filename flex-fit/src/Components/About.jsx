@@ -54,7 +54,7 @@ const About = () => {
         </div>
         <div className='pt-3'>
           <img src='/images/Olympic-pool.jpg' className='rounded-lg'/>
-          <p className='items-start col-start-2 row-start-7 bg-gray-700 rounded-lg p-3 block text-xl text-white'>
+          <p className='items-start col-start-2 row-start-7 w-auto bg-gray-700 rounded-lg p-3 block text-xl text-white'>
               Olympic Swimming Pool
           </p>
         </div>
