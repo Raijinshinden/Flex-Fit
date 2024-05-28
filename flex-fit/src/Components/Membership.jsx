@@ -69,11 +69,11 @@ const Membership = () => {
                     24/7 access to gym.
                   </li>
                   <li >
-                    You can take one trial class<br/> 
+                    Take multiple trial classes<br/> 
                     for free every month.
                   </li>
                   <li>
-                    
+
                   </li>
                 </ul>
                 <div className='p-2 my-6 bg-amber-500 rounded-lg text-center font-bold text-white text-4xl'>
