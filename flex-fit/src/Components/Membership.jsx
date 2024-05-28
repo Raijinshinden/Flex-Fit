@@ -12,7 +12,7 @@ const Membership = () => {
                   Basic
                 </h3>
                 <p className='text-center text-white'>
-                    This is our most basic package.<br/>
+                    This is our most basic package.
                     For people looking for a casual gym experience.  
                 </p>
                 <ul className='my-2 text-center text-white list-inside list-disc'>
@@ -23,7 +23,7 @@ const Membership = () => {
                     Free branded water bottle.
                   </li>
                   <li>
-                    You can take one trial class<br/> 
+                    You can take one trial class 
                     for free every month.
                   </li>
                 </ul>
@@ -37,7 +37,7 @@ const Membership = () => {
                 </h3>
                 <p className='text-center text-white'>
                     This package is for people who are looking<br/>
-                    to get more out of their <br/>
+                    to get more out of their 
                     gym experience.
                 </p>
                 <ul className='my-2 text-center text-white list-inside list-disc'>
@@ -45,7 +45,7 @@ const Membership = () => {
                     24/7 access to gym.
                   </li>
                   <li >
-                    You can take one trial class<br/> 
+                    You can take one trial class
                     for free every month.
                   </li>
                   <li>
@@ -61,7 +61,7 @@ const Membership = () => {
                   Gym Rat
                 </h3>
                 <p className='text-center text-white'>
-                    This package is for people who spend <br/>
+                    This package is for people who spend 
                     their whole lives at the gym.  
                 </p>
                 <ul className='my-2 text-center text-white list-inside list-disc'>
