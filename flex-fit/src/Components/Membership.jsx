@@ -72,6 +72,9 @@ const Membership = () => {
                     You can take one trial class<br/> 
                     for free every month.
                   </li>
+                  <li>
+                    
+                  </li>
                 </ul>
                 <div className='p-2 my-6 bg-amber-500 rounded-lg text-center font-bold text-white text-4xl'>
                   $100.00
