@@ -22,7 +22,7 @@ const Navbar = () => {
                     </li>
                 </ul>
             </div>
-            <div className='flex items-center gap-'>
+            <div className='flex items-center gap-6'>
                 <button className='bg-amber-500 text-white px-5 py-2 mx-5 rounded-full hover:bg-white hover:text-amber-500 max-md:hidden'><a href="#contact">Contact Us</a></button>
             </div>
         </nav>
