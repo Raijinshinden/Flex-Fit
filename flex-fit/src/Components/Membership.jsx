@@ -42,7 +42,7 @@ const Membership = () => {
                 </p>
                 <ul className='my-2 text-center text-white list-inside list-disc'>
                   <li >
-                    24/7 access to .
+                    24/7 access to gym.
                   </li>
                   <li >
                     You can take one trial class
