@@ -49,7 +49,7 @@ const Membership = () => {
                     for free every month.
                   </li>
                   <li>
-                    Free access to our paid carpark.
+                    Free access to our paid carpark
                   </li>
                 </ul>
                 <div className='p-2 my-6 bg-amber-500 rounded-lg text-center font-bold text-white text-4xl'>
