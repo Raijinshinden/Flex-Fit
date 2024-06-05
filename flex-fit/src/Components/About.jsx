@@ -10,7 +10,7 @@ const About = () => {
         </h2>
       </div>
 
-      <div className='sm:flex justify-evenly mx-3'>
+      <div className='sm:flex justify-evenly align-center mx-3'>
         <div className='mt-3 bg-gray-700 w-40'>
         <img src='/images/man-weights.jpg' className='size-96 float-right rounded-lg h-full object-cover'/>
           <p className='items-start bg-gray-700 rounded-lg p-3 block text-xl text-white text-wrap'>
