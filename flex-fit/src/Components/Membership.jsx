@@ -73,7 +73,7 @@ const Membership = () => {
                     for free every month.
                   </li>
                   <li>
-                    Free training with our experienced<br/>
+                    Free training with our
                     personal trainers.
                   </li>
                 </ul>
