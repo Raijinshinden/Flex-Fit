@@ -11,7 +11,7 @@ const About = () => {
       </div>
 
 
-      <div className='flex justify-center'>
+      <div className='flex justify-center content-between'>
         <div className='sm:flex justify-between justify-items-center mx-3'>
           <div className='mt-3 bg-gray-700 w-40'>
           <img src='/images/man-weights.jpg' className='size-96 float-right rounded-lg h-full object-cover'/>
