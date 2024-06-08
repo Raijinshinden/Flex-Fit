@@ -43,7 +43,7 @@ const About = () => {
             </p>
           </div>
           <div className='hover:cursor-pointer sm:col-start-1 row-start-2 mb-6 bg-gray-700 rounded-xl md:w-3/12 md:h-full'>
-            <img src='/images/Gym.jpg' className='rounded-lg'/>
+            <img src='/images/Gym.jpg' className='rounded-lg float-right'/>
             <p className='items-start bg-gray-700 rounded-lg p-3 block text-xl text-white'>
                 Gymnasium
             </p>
