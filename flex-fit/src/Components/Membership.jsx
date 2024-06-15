@@ -27,7 +27,7 @@ const Membership = () => {
                     for free every month.
                   </li>
                 </ul>
-                <div className='p-2 m-6 bg-amber-500 rounded-lg text-center font-bold text-white text-4xl'>
+                <div className='p-2 m-6 mb-6 bg-amber-500 rounded-lg text-center font-bold text-white text-4xl'>
                   $50.00
                 </div>
             </div>
