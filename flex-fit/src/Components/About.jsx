@@ -36,7 +36,7 @@ const About = () => {
                 These facilities include...
             </p>
           </div>
-          <div className='hover:cursor-pointer sm:col-start-1 row-start-2 m-6 bg-gray-700 rounded-xl md:w-3/12 md:h-full'>
+          <div className='hover:cursor-pointer sm:col-start-1 row-start-2 m-4 bg-gray-700 rounded-xl md:w-3/12 md:h-full'>
             <img src='/images/Spa.jpg' className='rounded-lg float-left'/>
             <p className='items-start bg-gray-700 rounded-lg p-3 block text-xl text-white'>
                 Luxury Spa
