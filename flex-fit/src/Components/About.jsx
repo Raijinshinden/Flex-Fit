@@ -21,7 +21,7 @@ const About = () => {
                 At Flex-Fit, our overall goal is to instill in our members self-confidence, 
             </p>
           </div>
-          <div className='hover:cursor-pointer sm:col-start-1 row-start-2 mb-6 bg-gray-700 rounded-xl md:w-3/12 md:h-full'>
+          <div className='hover:cursor-pointer sm:col-start-1 row-start-2 m-6 bg-gray-700 rounded-xl md:w-3/12 md:h-full'>
             <img src='' className=''/>
             <p className='items-start bg-gray-700 rounded-lg p-3 block text-xl text-white'>
                 At Flex-Fit, you will find only the most state-of-the-art equipment that is readily available to the public.
