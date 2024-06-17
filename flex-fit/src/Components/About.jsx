@@ -12,7 +12,7 @@ const About = () => {
 
 
       <div className='sm:col-start-1 row-start-2 mx-12 md:flex justify-evenly gap-x-2'>
-        <div className='sm:flex mx-3 float-left'>
+        <div className='sm:flex mx-3'>
           <div className='hover:cursor-pointer sm:col-start-1 row-start-2 m-4 bg-gray-700 rounded-xl md:w-3/12 md:h-full'>
           <img src='/images/man-weights.jpg' className='size-96 float-right rounded-lg h-full object-cover'/>
             <p className='items-start bg-gray-700 rounded-lg p-3 block text-xl text-white text-wrap'>
