@@ -11,7 +11,7 @@ const About = () => {
       </div>
 
 
-      <div className='sm:col-start-1 row-start-2 mx-12 md:flex justify-evenly gap-x-2'>
+      <div className='sm:col-start-1 row-start-2 mx-12 md:flex justify-evenly'>
         <div className='sm:flex mx-3'>
           <div className='hover:cursor-pointer sm:col-start-1 row-start-2 m-4 bg-gray-700 rounded-xl md:w-3/12 md:h-full'>
           <img src='/images/man-weights.jpg' className='size-96 float-right rounded-lg h-full object-cover'/>
