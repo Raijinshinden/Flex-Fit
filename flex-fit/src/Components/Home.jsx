@@ -14,7 +14,7 @@ function Home(){
                     <p className="mt-2 text-xl text-white"><span>Flex-Fit is a state-of-the-art 24hr gym.</span>{""}
                     <br />
                     So you can come and exercise whenever you want to.</p>
-                <button className="bg-amber-500 px-4 py-2 mt-2 text-2xl text-white rounded-full hover:bg-white hover:text-amber-500 delay-300">Trial</button>
+                <button className="bg-amber-500 px-4 py-2 mt-2 text-2xl text-white rounded-full hover:bg-white hover:text-amber-500 delay-100 hover:ease-in-out">Trial</button>
                 </div>
             </div>
         </section>
