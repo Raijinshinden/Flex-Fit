@@ -49,7 +49,7 @@ const Contact = () => {
                 name='message' />    
             </div>
             <button 
-            className='bg-amber-500 text-white font-bold mt-4 w-full p-4 rounded-lg hover:bg-white hover:text-amber-500'
+            className='bg-amber-500 text-white font-bold mt-4 w-full p-4 rounded-lg hover:bg-white hover:text-amber-500 transition delay-100 hover:ease-in-out'
             >
                 Send Message    
             </button> 
