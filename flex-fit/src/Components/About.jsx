@@ -13,7 +13,7 @@ const About = () => {
 
       <div className='sm:col-start-1 row-start-2 mx-12 md:flex justify-evenly'>
         <div className='sm:flex mx-3'>
-          <div className='hover:cursor- sm:col-start-1 row-start-2 m-4 bg-gray-700 rounded-xl md:w-3/12 md:h-full'>
+          <div className='hover:cursor-pointer sm:col-start-1 row-start-2 m-4 bg-gray-700 rounded-xl md:w-3/12 md:h-full'>
           <img src='/images/man-weights.jpg' className='size-96 sm:w-full md:float-right rounded-lg h-full object-cover'/>
             <p className='items-start bg-gray-700 rounded-lg p-3 block text-xl text-white text-wrap'>
                 Flex-Fit was founded with the idea that people should be able to exercise whenever they want to.<br/> 
