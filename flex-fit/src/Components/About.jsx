@@ -51,7 +51,7 @@ const About = () => {
           <div className='hover:cursor-pointer sm:col-start-1 row-start-2 m-4 bg-gray-700 rounded-xl md:w-3/12 md:h-full'>
             <img src='' className=''/>
             <p className='items-start bg-gray-700 rounded-lg p-3 block text-xl text-white'>
-                Rock climbing 
+                Rock climbing Wall
             </p>
           </div>
           <div className='hover:cursor-pointer sm:col-start-1 row-start-2 m-4 bg-gray-700 rounded-xl md:w-3/12 md:h-full'>
