@@ -12,7 +12,7 @@ const About = () => {
 
 
       <div className='md:flex justify-evenly'>
-        <div className='grid mx-12 lg:grid-cols-2 gap-10'>
+        <div className='grid mx-12 lg:grid-cols-3 gap-10'>
           <div className='hover:cursor-pointer  bg-gray-700 rounded-xl md:w-3/12 md:h-full'>
           <img src='/images/man-weights.jpg' className='size-96 sm:w-full md:float-right rounded-lg h-full object-cover'/>
             <p className='items-start bg-gray-700 rounded-lg p-3 block text-xl text-white text-wrap'>
