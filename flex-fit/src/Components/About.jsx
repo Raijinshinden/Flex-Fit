@@ -13,7 +13,7 @@ const About = () => {
 
       <div className='md:flex justify-evenly'>
         <div className='sm:col-start-1 row-start-2 mx-12  md:grid grid-cols-2 gap-10'>
-          <div>
+          <div className='col-start-1'>
           <img src='/images/man-weights.jpg' className='size-96 sm:w-full md:float-right rounded-lg h-full object-cover'/>
           </div>
           <div className='hover:cursor-pointer  bg-gray-700 rounded-xl md:w-3/12 md:h-full'>
