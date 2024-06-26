@@ -21,7 +21,7 @@ const About = () => {
             At Flex-Fit, our overall goal is to instill in our members self-confidence, 
           </p>
         </div>
-        <div className='row-start-2 col-start-1 col-span-2'>
+        <div className='row-start-2 row-span-1 col-start-1 col-span-2'>
           <p className='items-start bg-gray-700 rounded-lg p-3 block text-xl text-white'>
                 At Flex-Fit, you will find only the most state-of-the-art equipment that is readily available to the public.
                 Our Gyms are also <span className='text-amber-500 font-bold'>CAMERA-FREE</span> environments, so our members never have to worry about videos of themselves being
@@ -29,13 +29,16 @@ const About = () => {
                 Flex-Fit also has a number of facilities besides our gym that are available to our higher level members.   
           </p>
         </div>
-        <div className='row-start-2 col-start-3 col-span-2'>
+        <div className='row-start-2 row-span-1 col-start-3 col-span-2'>
           <img src=''/>
         </div>
-        <div className='row-start-3 col-start-1 col-span-4'>
+        <div className='row-start-3 row-span-1 col-start-1 col-span-4'>
           <p className='items-start bg-gray-700 rounded-lg p-3 block text-xl text-white'>
               These facilities include...
           </p>
+        </div>
+        <div className='row-start-4 row-span-1 col-start-1 col-span-2'>
+          <img src='/images/Spa.jpg' className='rounded-lg'/>
         </div>
       </div>
     </div>
