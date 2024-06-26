@@ -21,7 +21,10 @@ const About = () => {
             At Flex-Fit, our overall goal is to instill in our members self-confidence, 
           </p>
         </div>
-        <div className='row-start-2'>
+        <div className='row-start-2 col-start-1 col-span-2'>
+
+        </div>
+        <div className='row-start-2 col-start-3 col-span-2'>
           <img src=''/>
         </div>
       </div>
