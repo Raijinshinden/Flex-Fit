@@ -22,7 +22,12 @@ const About = () => {
           </p>
         </div>
         <div className='row-start-2 col-start-1 col-span-2'>
-
+          <p className='items-start bg-gray-700 rounded-lg p-3 block text-xl text-white'>
+                At Flex-Fit, you will find only the most state-of-the-art equipment that is readily available to the public.
+                Our Gyms are also <span className='text-amber-500 font-bold'>CAMERA-FREE</span> environments, so our members never have to worry about videos of themselves being
+                uploaded to the internet without their permission.
+                Flex-Fit also has a number of facilities besides our gym that are available to our higher level members.   
+          </p>
         </div>
         <div className='row-start-2 col-start-3 col-span-2'>
           <img src=''/>
