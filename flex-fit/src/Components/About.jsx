@@ -52,6 +52,9 @@ const About = () => {
 
           </p>
         </div>
+        <div className='row-start-5 row-span-1'>
+          <img src='' />
+        </div>
       </div>
     </div>
   </>
