@@ -46,6 +46,12 @@ const About = () => {
 
           </p>
         </div>
+        <div>
+        <h2 className='underline font-bold text-amber-500'>Gynasium</h2>
+          <p className='text-white'>
+
+          </p>
+        </div>
       </div>
     </div>
   </>
