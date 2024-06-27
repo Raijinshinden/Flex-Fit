@@ -64,7 +64,7 @@ const About = () => {
 
           </p>
         </div>
-        <div className='row-start-7 row-span-1'>
+        <div className='row-start-7 row-span-1 col-start-1 col-span-2'>
           <h2 className='underline font-bold text-amber-500'>Rock Climbing Center</h2>
             <p className='text-white'>
 
