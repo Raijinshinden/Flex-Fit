@@ -53,7 +53,7 @@ const About = () => {
           </p>
         </div>
         <div className='row-start-5 row-span-1 col-start-3 col-span-2'>
-          <img src='' />
+          <img src='/images/Gym.jpg'/>
         </div>
       </div>
     </div>
