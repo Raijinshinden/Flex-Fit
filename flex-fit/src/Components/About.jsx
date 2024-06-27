@@ -55,10 +55,10 @@ const About = () => {
         <div className='row-start-5 row-span-1 col-start-3 col-span-2'>
           <img src='/images/Gym.jpg'/>
         </div>
-        <div>
+        <div className='row-start-6 row-span-1 col-start-1 col-span-2'>
           <img src=''/>
         </div>
-        <div>
+        <div className='row-start-6 row-span-1 col-start-3 col-span-2'>
           <h2 className='underline font-bold text-amber-500'>Rock Climbing Center</h2>
           <p className='text-white'>
 
