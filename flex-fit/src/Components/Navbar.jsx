@@ -9,7 +9,7 @@ const Navbar = () => {
             <div className='md:static absolute bg-gray-600 md:min-h-fit min-h-[60vh] left-0 top-[-100%] md:w-auto w-full flex items-center px-5'>
                 <ul className='flex md:flex-row flex-col md:items-center md:gap-[7vw] gap-8'>
                     <li>
-                        <a className='border-rounded text-2xl ml- p-2 text-amber-500 hover:bg-white hover:text-amber-600 hover:border-solid hover:border-2 hover:rounded-xl hover:border-amber-500 transition delay-100' href='#home'>Home</a>
+                        <a className='border-rounded text-2xl p-2 text-amber-500 hover:bg-white hover:text-amber-600 hover:border-solid hover:border-2 hover:rounded-xl hover:border-amber-500 transition delay-100' href='#home'>Home</a>
                     </li>
                     <li>
                         <a className='border-rounded text-2xl p-2 text-amber-500 hover:bg-white hover:text-amber-600 hover:border-solid hover:border-2 hover:rounded-xl hover:border-amber-500' href='#about'>About</a>
