@@ -12,7 +12,7 @@ const Navbar = () => {
                         <a className='border-rounded text-2xl ml- p-2 text-amber-500 hover:bg-white hover:text-amber-600 hover:border-solid hover:border-2 hover:rounded-xl hover:border-amber-500 transition delay-100' href='#home'>Home</a>
                     </li>
                     <li>
-                        <a className='border-rounded text-2xl ml- p-2 text-amber-500 hover:bg-white hover:text-amber-600 hover:border-solid hover:border-2 hover:rounded-xl hover:border-amber-500' href='#about'>About</a>
+                        <a className='border-rounded text-2xl p-2 text-amber-500 hover:bg-white hover:text-amber-600 hover:border-solid hover:border-2 hover:rounded-xl hover:border-amber-500' href='#about'>About</a>
                     </li>
                     <li>
                         <a className='border-rounded text-2xl p-2 text-amber-500 hover:bg-white hover:text-amber-600 hover:border-solid hover:border-2 hover:rounded-xl hover:border-amber-500' href='#classes'>Classes</a>
