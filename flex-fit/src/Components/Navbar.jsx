@@ -18,7 +18,7 @@ const Navbar = () => {
                         <a className='border-rounded text-xl ml- p-2 text-amber-500 hover:bg-white hover:text-amber-600 hover:border-solid hover:border-2 hover:rounded-xl hover:border-amber-500 transition delay-100 hover:ease-in-out' href='#classes'>Classes</a>
                     </li>
                     <li>
-                        <a className='border-rounded text-xl ml- p-2 text-amber-500 hover:bg-white hover:text-amber-600 hover:border-solid hover:border-2 hover:rounded-xl hover:border-amber-500' href='#membership'>Membership</a>
+                        <a className='border-rounded text-xl ml- p-2 text-amber-500 hover:bg-white hover:text-amber-600 hover:border-solid hover:border-2 hover:rounded-xl hover:border-amber-500 transition delay-100 hover:ease-in-out' href='#membership'>Membership</a>
                     </li>
                 </ul>
             </div>
