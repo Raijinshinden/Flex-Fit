@@ -12,18 +12,18 @@ const Navbar = () => {
                         <a className='border-rounded text-3xl ml- p-2 text-amber-500 hover:bg-white hover:text-amber-600 hover:border-solid hover:border-2 hover:rounded-xl hover:border-amber-500 transition delay-100' href='#home'>Home</a>
                     </li>
                     <li>
-                        <a className='border-rounded text-3xl ml- p-2 text-amber-500 hover:bg-white hover:text-amber-600 hover:border-solid hover:border-2 hover:rounded-xl hover:border-amber-500' href='#about'>About</a>
+                        <a className='border-rounded text-xl ml- p-2 text-amber-500 hover:bg-white hover:text-amber-600 hover:border-solid hover:border-2 hover:rounded-xl hover:border-amber-500' href='#about'>About</a>
                     </li>
                     <li>
-                        <a className='border-rounded text-3xl ml- p-2 text-amber-500 hover:bg-white hover:text-amber-600 hover:border-solid hover:border-2 hover:rounded-xl hover:border-amber-500' href='#classes'>Classes</a>
+                        <a className='border-rounded text-xl ml- p-2 text-amber-500 hover:bg-white hover:text-amber-600 hover:border-solid hover:border-2 hover:rounded-xl hover:border-amber-500' href='#classes'>Classes</a>
                     </li>
                     <li>
-                        <a className='border-rounded text-3xl ml- p-2 text-amber-500 hover:bg-white hover:text-amber-600 hover:border-solid hover:border-2 hover:rounded-xl hover:border-amber-500' href='#membership'>Membership</a>
+                        <a className='border-rounded text-xl ml- p-2 text-amber-500 hover:bg-white hover:text-amber-600 hover:border-solid hover:border-2 hover:rounded-xl hover:border-amber-500' href='#membership'>Membership</a>
                     </li>
                 </ul>
             </div>
             <div className='flex items-center gap-6'>
-                <button className='bg-amber-500 text-white px-5 py-2 mx-5 rounded-full hover:bg-white hover:text-amber-500 transition delay-100 hover:ease-in-out max-md:hidden'><a href="#contact">Contact Us</a></button>
+                <button className='bg-amber-500 text-white text-xl px-5 py-2 mx-5 rounded-full hover:bg-white hover:text-amber-500 transition delay-100 hover:ease-in-out max-md:hidden'><a href="#contact">Contact Us</a></button>
             </div>
         </nav>
     </header>
