@@ -7,7 +7,7 @@ const Navbar = () => {
                 Flex-Fit
             </div>
             <div className='md:static absolute bg-gray-600 md:min-h-fit min-h-[60vh] left-0 top-[-100%] md:w-auto w-full flex items-center px-5'>
-                <ul className='flex md:flex-row flex-col md:items-center md:gap-[7vw] gap-8'>
+                <ul className='flex md:flex-row flex-col md:items-center md:gap-[7vw] gap-8 transition delay-100 hover:ease-in-out'>
                     <li>
                         <a className='border-rounded text-xl ml- p-2 text-amber-500 hover:bg-white hover:text-amber-600 hover:border-solid hover:border-2 hover:rounded-xl hover:border-amber-500' href='#home'>Home</a>
                     </li>
