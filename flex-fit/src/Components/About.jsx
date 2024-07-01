@@ -10,8 +10,8 @@ const About = () => {
         </h2>
       </div>
 
-      <div className='sm:col-start-1 row-start-2 mx-12 lg:grid grid-cols-4 grid-rows-8 gap-8'>
-        <div className='sm:mt-6 md:col-span-2 row-span-1'>
+      <div className='sm:col-start-1 row-start-2 mx-12 space-y-2 lg:grid grid-cols-4 grid-rows-8 gap-8'>
+        <div className='md:col-span-2 row-span-1'>
           <img src='/images/man-weights.jpg' className='size-96 sm:w-full md:rounded-lg h-full'/>
         </div>
         <div className='row-start-1 row-span-1 col-start-3 col-span-2 mt-6'>
