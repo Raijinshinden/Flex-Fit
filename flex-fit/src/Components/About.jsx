@@ -11,8 +11,8 @@ const About = () => {
       </div>
 
       <div className='sm:col-start-1 row-start-2 mx-12 lg:grid grid-cols-4 grid-rows-8 gap-8'>
-        <div className='col-span-2 row-span-1 sm:gap-y-2'>
-          <img src='/images/man-weights.jpg' className='size-96 sm:w-full md:rounded-lg h-full'/>
+        <div className='col-span-2 row-span-1 '>
+          <img src='/images/man-weights.jpg' className='size-96 sm:w-full sm:mt-2 md:rounded-lg h-full'/>
         </div>
         <div className='row-start-1 row-span-1 col-start-3 col-span-2'>
           <p className='bg-gray-700 rounded-lg p-3 text-xl text-white'>
