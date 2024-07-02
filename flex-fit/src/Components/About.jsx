@@ -53,7 +53,7 @@ const About = () => {
           </p>
         </div>
         <div className='row-start-5 row-span-1 col-start-3 col-span-2'>
-          <img src='/images/Gym.jpg'/>
+          <img src='/images/Gym.jpg' className='rounded-lg'/>
         </div>
         <div className='row-start-6 row-span-1 col-start-1 col-span-2'>
           <img src='/images/Olympic-pool.jpg'/>
