@@ -74,7 +74,7 @@ const About = () => {
           <img src='' className='rounded-lg h-full'/>
         </div>
         <div className='row-start-8 row-span-1 col-start-1 col-span-2'>
-          <img src='' className='rounded-lg'/>
+          <img src='' className='rounded-lg h-full'/>
         </div>
         <div className='row-start-8 row-span-1 col-start-3 col-span-2 bg-gray-700 rounded-lg p-3 text-xl'>
           <h2 className='underline font-bold text-amber-500'>Rock Climbing Center</h2>
