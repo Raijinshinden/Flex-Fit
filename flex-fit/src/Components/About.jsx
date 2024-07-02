@@ -71,7 +71,7 @@ const About = () => {
             </p>
         </div>
         <div className='row-start-7 row-span-1 col-start-3 col-span-2'>
-          <img src=''/>
+          <img src='' className='rounded-lg'/>
         </div>
         <div className='row-start-8 row-span-1 col-start-1 col-span-2'>
           <img src=''/>
