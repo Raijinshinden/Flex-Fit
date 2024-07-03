@@ -8,6 +8,7 @@ const Membership = () => {
         </h2>
         <div className='sm:justify-center md:flex justify-evenly gap-3'>
             <div className='h-full pb-1 sm:mb-6 sm:w-3/4 sm:ml-16 md:w-4/12 bg-gray-700 rounded-xl px-4 shadow-2xl hover:shadow-black hover:cursor-pointer transition delay-75 hover:ease-in-out sm:col-start-1 row-start-2'>
+              <img src='/images/'/>
                 <h3 className='text-white text-2xl text-center font-bold my-2'>
                   Basic
                 </h3>
@@ -32,6 +33,7 @@ const Membership = () => {
                 </div>
             </div>
             <div className='h-full pb-1 sm:mb-6 sm:w-3/4 sm:ml-16 md:w-4/12 bg-gray-700 rounded-xl px-4 shadow-2xl hover:shadow-black hover:cursor-pointer transition delay-75 hover:ease-in-out sm:col-start-1 row-start-3 mx-3'>
+            <img src='/images/gym-enthusiast.jpg'/>
                 <h3 className='text-white text-2xl text-center font-bold my-2'>
                   Enthusiast
                 </h3>
