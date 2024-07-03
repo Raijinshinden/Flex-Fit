@@ -69,8 +69,8 @@ const Membership = () => {
                     24/7 access to gym.
                   </li>
                   <li >
-                    Take multiple trial classes
-                    for free every month.
+                    Take multiple trial classes for free <br/>
+                    every month.
                   </li>
                   <li>
                     Free training with our personal trainers.
