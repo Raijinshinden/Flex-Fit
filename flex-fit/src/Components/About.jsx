@@ -47,7 +47,7 @@ const About = () => {
             </p>
           </div>
           <div className='row-start-5 row-span-1 col-start-1 col-span-2 bg-gray-700 rounded-lg p-3 text-xl'>
-          <h2 className='underline font-bold text-amber-500'>Gynasium</h2>
+          <h2 className='underline font-bold text-amber-500 text-2xl'>Gynasium</h2>
             <p className='text-white'>
 
             </p>
