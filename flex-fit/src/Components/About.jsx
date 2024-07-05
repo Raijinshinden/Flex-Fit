@@ -26,52 +26,57 @@ const About = () => {
                   At Flex-Fit, you will find only the most state-of-the-art equipment that is readily available to the public.
                   Our Gyms are also <span className='text-amber-500 font-bold'>CAMERA-FREE</span> environments, so our members never have to worry about videos of themselves being
                   uploaded to the internet without their permission.
-                  Flex-Fit also has a number of facilities besides our gym that are available to our higher level members.   
+                  Flex-Fit also has a number of facilities besides our gym that are available to our higher level members.<br/>
+                  <br/>
+                  <br/>
+                  <br/>
+                  <br/>
+                  These facilities include...   
             </p>
           </div>
           <div className='row-start-2 row-span-1 col-start-3 col-span-2'>
             <img src=''/>
           </div>
-          <div className='row-start-4 row-span-1 col-start-1 col-span-2'>
+          <div className='row-start-3 row-span-1 col-start-1 col-span-2'>
             <img src='/images/Spa.jpg' className='rounded-lg h-full'/>
           </div>
-          <div className='row-start-4 row-span-1 col-start-3 col-span-2 bg-gray-700 rounded-lg p-3 text-xl'>
+          <div className='row-start-3 row-span-1 col-start-3 col-span-2 bg-gray-700 rounded-lg p-3 text-xl'>
             <h2 className='underline font-bold text-amber-500 text-2xl'>Luxury Spa</h2>
             <p className='text-white'>
 
             </p>
           </div>
-          <div className='row-start-5 row-span-1 col-start-1 col-span-2 bg-gray-700 rounded-lg p-3 text-xl'>
+          <div className='row-start-4 row-span-1 col-start-1 col-span-2 bg-gray-700 rounded-lg p-3 text-xl'>
           <h2 className='underline font-bold text-amber-500 text-2xl'>Gynasium</h2>
             <p className='text-white'>
 
             </p>
           </div>
-          <div className='row-start-5 row-span-1 col-start-3 col-span-2'>
+          <div className='row-start-4 row-span-1 col-start-3 col-span-2'>
             <img src='/images/Gym.jpg' className='rounded-lg h-full'/>
           </div>
-          <div className='row-start-6 row-span-1 col-start-1 col-span-2'>
+          <div className='row-start-5 row-span-1 col-start-1 col-span-2'>
             <img src='/images/Olympic-pool.jpg' className='rounded-lg h-full'/>
           </div>
-          <div className='row-start-6 row-span-1 col-start-3 col-span-2 bg-gray-700 rounded-lg p-3 text-xl'>
+          <div className='row-start-5 row-span-1 col-start-3 col-span-2 bg-gray-700 rounded-lg p-3 text-xl'>
             <h2 className='underline font-bold text-amber-500 text-2xl'>Swimming Pool</h2>
             <p className='text-white'>
 
             </p>
           </div>
-          <div className='row-start-7 row-span-1 col-start-1 col-span-2 bg-gray-700 rounded-lg p-3 text-xl'>
+          <div className='row-start-6 row-span-1 col-start-1 col-span-2 bg-gray-700 rounded-lg p-3 text-xl'>
             <h2 className='underline font-bold text-amber-500 text-2xl'>Rock Climbing Center</h2>
               <p className='text-white'>
 
               </p>
           </div>
-          <div className='row-start-7 row-span-1 col-start-3 col-span-2'>
+          <div className='row-start-6 row-span-1 col-start-3 col-span-2'>
             <img src='/images/rock-climbing-wall.jpg' className='rounded-lg h-full'/>
           </div>
-          <div className='row-start-8 row-span-1 col-start-1 col-span-2'>
+          <div className='row-start-7 row-span-1 col-start-1 col-span-2'>
             <img src='' className='rounded-lg h-full'/>
           </div>
-          <div className='row-start-8 row-span-1 col-start-3 col-span-2 bg-gray-700 rounded-lg p-3 text-xl'>
+          <div className='row-start-7 row-span-1 col-start-3 col-span-2 bg-gray-700 rounded-lg p-3 text-xl'>
             <h2 className='underline font-bold text-amber-500 text-2xl'>Rock Climbing Center</h2>
                 <p className='text-white'>
 
