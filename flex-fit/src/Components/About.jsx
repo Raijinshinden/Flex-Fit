@@ -32,11 +32,6 @@ const About = () => {
           <div className='row-start-2 row-span-1 col-start-3 col-span-2'>
             <img src=''/>
           </div>
-          <div className='row-start-3 row-span-1 col-start-1 col-span-4'>
-            <p className='items-start bg-gray-700 rounded-lg p-3 md:text-2xl text-white'>
-                These facilities include...
-            </p>
-          </div>
           <div className='row-start-4 row-span-1 col-start-1 col-span-2'>
             <img src='/images/Spa.jpg' className='rounded-lg h-full'/>
           </div>
