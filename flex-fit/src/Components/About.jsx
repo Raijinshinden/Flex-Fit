@@ -33,7 +33,7 @@ const About = () => {
             <img src=''/>
           </div>
           <div className='row-start-3 row-span-1 col-start-1 col-span-4'>
-            <p className='items-start h-full bg-gray-700 rounded-lg p-3 md:text-2xl text-white'>
+            <p className='items-start  bg-gray-700 rounded-lg p-3 md:text-2xl text-white'>
                 These facilities include...
             </p>
           </div>
