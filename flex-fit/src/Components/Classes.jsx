@@ -47,7 +47,49 @@ const Classes = () => {
             </p>
           </div>
         </div>
+        <div className='sm:col-start-1 row-start-2 mx-12 md:grid justify-evenly gap-x-10 mt-20 mb-20'>
+          <div className='shadow-2xl p-2 hover:shadow-black hover:cursor-pointer transition delay-100 hover:ease-in-out sm:col-start-1 row-start-2 mb-6 bg-gray-700 rounded-xl md:w-3/12 md:h-full'>
+            <img src='/images/aerobics.jpg' className='p-2 rounded-xl'/>
+            <h3 className='text-white text-2xl text-center font-bold my-2 px-3'>
+              Aerobics
+            </h3>
+            <p className='text-white p-2'>
+              Our aerobics classes allows our members to exercise and stretch in a relaxed and peaceful manner.
+            </p>
+          </div>
+          <div className='shadow-2xl p-2 hover:shadow-black hover:cursor-pointer transition delay-100 hover:ease-in-out sm:col-start-1 row-start-2 mb-6 bg-gray-700 rounded-xl md:w-3/12 md:h-full'>
+            <img src='/images/boxing.jpg' className='p-2 rounded-xl'/>
+            <h3 className='text-white text-2xl text-center  font-bold my-2 px-3'>
+              Boxing
+            </h3>
+            <p className='text-white p-2'>
+              Our boxing classes give our members an amazing workout, as they can focus on during some padwork with their training partners,
+              or engage in some light sparing with with of our trained instructors.
+            </p>
+          </div>
+          <div className='shadow-2xl p-2 hover:shadow-black hover:cursor-pointer transition delay-100 hover:ease-in-out sm:col-start-1 row-start-2 mb-6 bg-gray-700 rounded-xl px-2 md:w-3/12 md:h-full'>
+            <img src='/images/karate.jpg' className='p-2 rounded-xl'/>
+            <h3 className='text-white text-2xl text-center font-bold my-2 px-3'>
+              Karate
+            </h3>
+            <p className='text-white p-2'>
+              We over both traditional and full-contact forms of karate here at Flex-Fit. Our classes are offered daily and are designed for members of
+              varying skill levels, so you will be able to find a class that is right for you.
+            </p>
+          </div>
+          <div className='shadow-2xl p-2 hover:shadow-black hover:cursor-pointer transition delay-100 hover:ease-in-out sm:col-start-1 row-start-2 bg-gray-700 rounded-xl px-2 md:w-3/12 md:h-full'>
+            <img src='/images/kickboxing.jpg' className='p-2 rounded-xl'/>
+            <h3 className='text-white text-2xl text-center font-bold my-2 px-3'>
+              Kickboxing
+            </h3>
+            <p className='text-white p-2'>
+              Kickboxing is one of our most popular classes here at Flex-Fit. Members are able to get a great workout which is not only good for their cardio,
+              but also helps to build and tone their muscles.
+            </p>
+          </div>
+        </div>
     </div>
+    
   )
 }
 
