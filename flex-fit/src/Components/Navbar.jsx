@@ -1,7 +1,7 @@
 const Navbar = () => {
 
   return (
-    <header className='invisible md:visible w-full z-[99] bg-gray-600 h-15 fixed'>
+    <header className='invisible lg:visible w-full z-[99] bg-gray-600 h-15 fixed'>
         <nav className='flex lg:justify-between items-center w-[92%] mx-auto py-2'>
             <div className='text-5xl font-bold text-amber-500 hover:cursor-pointer'>
                 Flex-Fit
