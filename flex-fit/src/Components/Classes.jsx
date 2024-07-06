@@ -3,7 +3,7 @@ import React from 'react'
 const Classes = () => { 
   return (
     <div className='grid grid-cols-4 grid-rows-3 w-full md:px-10 py-10 bg-gray-800 overflow-hidden' id='classes'>
-        <h2 className='sm:col-start-1 row-start-1 mb-6 mx-3 md:mb-3 md:mt-10 bg-gray-700 text-center rounded-full text-3xl font-bold text-amber-500 py-4'>
+        <h2 className='sm:col-start-1 sm:row-start-1 mb-6 mx-3 md:mb-3 md:mt-10 bg-gray-700 text-center rounded-full text-3xl font-bold text-amber-500 py-4'>
             Classes
         </h2>
         <div className='sm:col-start-1 row-start-2 mx-12 md:flex justify-evenly gap-x-10 mt-20 mb-20'>
