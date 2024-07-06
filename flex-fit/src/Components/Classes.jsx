@@ -12,7 +12,7 @@ const Classes = () => {
             <h3 className='text-white text-2xl text-center font-bold my-2 px-3'>
               Aerobics
             </h3>
-            <p className='bg-gray-600 h-40 text-white p-2'>
+            <p className='text-white p-2'>
               Our aerobics classes allows our members to exercise and stretch in a relaxed and peaceful manner.
             </p>
           </div>
