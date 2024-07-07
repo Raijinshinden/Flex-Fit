@@ -6,7 +6,7 @@ function Home(){
     return (
         <section id="home">
             <div>
-                <img src="/images/man-treadmill.jpg" className="md:w-full h-screen object-cover lg:pt-10"/>
+                <img src="/images/man-treadmill.jpg" className="sm:right-20 md:w-full h-screen object-cover lg:pt-10"/>
                 <div className="invisible md:visible absolute top-60 left-0 text-left mt-14 ml-6 px-4 py-4 rounded-xl bg-gray-800">
                     <h1 className="pb-2 text-5xl font-bold text-amber-500"><span>Are you looking to get in shape,</span>{" "} 
                     <br/>
