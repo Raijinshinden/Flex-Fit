@@ -16,6 +16,9 @@ function Home(){
                     So you can come and exercise whenever you want to.</p>
                 <button className="bg-amber-500 px-4 py-2 mt-2 text-3xl text-white rounded-full hover:bg-white hover:text-amber-500 transition delay-100 hover:ease-in-out">Trial</button>
                 </div>
+                <div className="md:invisible">
+
+                </div>
             </div>
         </section>
     );
