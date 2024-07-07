@@ -17,7 +17,9 @@ function Home(){
                 <button className="bg-amber-500 px-4 py-2 mt-2 text-3xl text-white rounded-full hover:bg-white hover:text-amber-500 transition delay-100 hover:ease-in-out">Trial</button>
                 </div>
                 <div className="w-full h-screen absolute top-0 bg-white/50 md:invisible">
+                    <div className="bg-gray-600 object-center">
 
+                    </div>
                 </div>
             </div>
         </section>
