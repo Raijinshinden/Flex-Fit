@@ -16,11 +16,11 @@ function Home(){
                     So you can come and exercise whenever you want to.</p>
                 <button className="bg-amber-500 px-4 py-2 mt-2 text-3xl text-white rounded-full hover:bg-white hover:text-amber-500 transition delay-100 hover:ease-in-out">Trial</button>
                 </div>
-                <div className="w-full h-screen absolute top-0 bg-white/50 md:invisible">
-                    <div className="top-24 flex justify-center bg-gray-600">
-                        <h1 className="text-center">
+                <div className="flex items-center justify-center w-full h-screen absolute top-0 bg-white/50 md:invisible">
+                    <div className="top-24 bg-gray-600 rounded-xl">
+                        <h1 className="text-center text-5xl text-white p-10">
                             Welcome to <br/>
-                            Flex-Fit
+                            <span className="text-amber-500 font-bold">Flex-Fit</span>
                         </h1>
                     </div>
                 </div>
