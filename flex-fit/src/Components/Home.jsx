@@ -17,7 +17,7 @@ function Home(){
                 <button className="bg-amber-500 px-4 py-2 mt-2 text-3xl text-white rounded-full hover:bg-white hover:text-amber-500 transition delay-100 hover:ease-in-out">Trial</button>
                 </div>
                 <div className="flex items-center justify-center w-full h-screen absolute top-0 bg-white/50 md:invisible">
-                    <div className="top-24 bg-gray-600 rounded-xl shadow-2xl p-2 hover:shadow-black hover:cursor-pointer transition delay-100 hover:ease-in-out">
+                    <div className="top-24 bg-gray-600 rounded-xl shadow-2xl p-2">
                         <h1 className="text-center text-5xl text-white p-10">
                             Welcome to <br/>
                             <span className="text-amber-500 font-bold">Flex-Fit</span>
