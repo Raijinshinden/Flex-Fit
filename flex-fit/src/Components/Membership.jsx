@@ -6,8 +6,8 @@ const Membership = () => {
         <h2 className='sm:col-start-1 row-start-1 mb-6 ml-3 mr-10 md:mt-10 md:mb-20 bg-gray-700 text-center rounded-full text-3xl font-bold text-amber-500 py-4' >
             Membership
         </h2>
-        <div className='sm:justify-center md:flex justify-evenly gap-3'>
-            <div className='h-full pb-1 sm:mb-6 sm:w-3/4 md:w-4/12 bg-gray-700 rounded-xl px-4 shadow-2xl hover:shadow-black hover:cursor-pointer transition delay-75 hover:ease-in-out sm:col-start-1 row-start-2'>
+        <div className='sm:justify-center md:flex justify-evenly'>
+            <div className='h-full py-1 sm:mb-6 sm:w-3/4 md:w-4/12 bg-gray-700 rounded-xl px-4 shadow-2xl hover:shadow-black hover:cursor-pointer transition delay-75 hover:ease-in-out sm:col-start-1 row-start-2'>
               <img src='/images/gym-basic.jpg' className='rounded-xl mt-3 h-80'/>
                 <h3 className='text-white text-2xl text-center font-bold my-2'>
                   Basic
@@ -32,7 +32,7 @@ const Membership = () => {
                   $50.00
                 </div>
             </div>
-            <div className='h-full pb-1 sm:mb-6 sm:w-3/4 sm:ml-16 md:w-4/12 bg-gray-700 rounded-xl px-4 shadow-2xl hover:shadow-black hover:cursor-pointer transition delay-75 hover:ease-in-out sm:col-start-1 row-start-3 mx-3'>
+            <div className='h-full py-1 sm:mb-6 sm:w-3/4 sm:ml-16 md:w-4/12 bg-gray-700 rounded-xl px-4 shadow-2xl hover:shadow-black hover:cursor-pointer transition delay-75 hover:ease-in-out sm:col-start-1 row-start-3 mx-3'>
               <img src='/images/gym-enthusiast.jpg' className='rounded-xl mt-3'/>
                 <h3 className='text-white text-2xl text-center font-bold my-2'>
                   Enthusiast
@@ -58,7 +58,7 @@ const Membership = () => {
                   $75.00
                 </div>
             </div>
-            <div className='h-full pb-1 sm:mb-6 sm:w-3/4 sm:ml-16 md:w-4/12 bg-gray-700 rounded-xl px-4 shadow-2xl hover:shadow-black hover:cursor-pointer transition delay-75 hover:ease-in-out sm:col-start-1 row-start-4 mx-3'>
+            <div className='h-full py-1 sm:mb-6 sm:w-3/4 sm:ml-16 md:w-4/12 bg-gray-700 rounded-xl px-4 shadow-2xl hover:shadow-black hover:cursor-pointer transition delay-75 hover:ease-in-out sm:col-start-1 row-start-4 mx-3'>
               <img src='/images/gym-rat.jpg' className='rounded-xl mt-3'/>
                 <h3 className='text-white text-2xl text-center font-bold my-2'>
                   Gym Rat
